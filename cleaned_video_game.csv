@@ -1,0 +1,1559 @@
+,Platform,Genre,Publisher,Critic_Score,User_Score,Rating,Cat
+0,PS2,Racing,Sony Computer Entertainment,95.0,8.4,E,Sports
+1,X360,Shooter,Activision,88.0,3.4,M,Action
+2,X360,Shooter,Activision,87.0,6.3,M,Action
+3,PS3,Shooter,Activision,83.0,5.3,M,Action
+4,X360,Shooter,Activision,83.0,4.8,M,Action
+5,X360,Shooter,Activision,94.0,6.3,M,Action
+6,PS3,Shooter,Activision,88.0,3.2,M,Action
+7,PS3,Shooter,Activision,88.0,6.4,M,Action
+8,PS2,Racing,Sony Computer Entertainment,89.0,8.5,E,Sports
+9,PS3,Racing,Sony Computer Entertainment,84.0,7.5,E,Sports
+10,PS3,Shooter,Activision,94.0,6.3,M,Action
+11,X360,Shooter,Activision,73.0,2.6,M,Action
+12,PS3,Shooter,Activision,71.0,2.6,M,Action
+13,X360,Shooter,Activision,94.0,8.4,M,Action
+14,PS3,Action,Electronic Arts,88.0,6.6,E,Action
+15,PS2,Role-Playing,Sony Computer Entertainment,92.0,8.7,T,Strategy
+16,PC,Simulation,Electronic Arts,86.0,7.6,T,Strategy
+17,X360,Shooter,Activision,84.0,7.6,M,Action
+18,X360,Shooter,Electronic Arts,84.0,7.4,M,Action
+19,PS2,Racing,Electronic Arts,85.0,8.6,E,Sports
+20,PS3,Shooter,Electronic Arts,85.0,7.5,M,Action
+21,PS2,Racing,Electronic Arts,82.0,8.6,E,Sports
+22,PS2,Shooter,Electronic Arts,88.0,8.5,T,Action
+23,PS3,Action,Sony Computer Entertainment,92.0,8.3,T,Action
+24,PS3,Shooter,Activision,94.0,8.4,M,Action
+25,PS3,Action,Sony Computer Entertainment,96.0,8.8,T,Action
+26,PS3,Sports,Electronic Arts,86.0,4.3,E,Sports
+27,PS3,Action,Ubisoft,85.0,6.9,M,Action
+28,PS2,Role-Playing,Sony Computer Entertainment,85.0,8.8,E,Strategy
+29,PC,Role-Playing,Activision,93.0,7.3,T,Strategy
+30,PS3,Platform,Sony Computer Entertainment,95.0,6.8,E,Adventure
+31,PS3,Action,Ubisoft,91.0,8.6,M,Action
+32,X360,Adventure,Ubisoft,81.0,7.7,M,Adventure
+33,PS3,Shooter,Activision,85.0,7.6,M,Action
+34,X360,Action,Ubisoft,84.0,6.7,M,Action
+35,PS2,Role-Playing,Electronic Arts,85.0,6.6,T,Strategy
+36,X360,Action,Ubisoft,90.0,8.8,M,Action
+37,X360,Action,Electronic Arts,90.0,6.1,E,Action
+38,PC,Role-Playing,Activision,88.0,4,M,Strategy
+39,PS2,Shooter,Electronic Arts,68.0,7.6,T,Action
+40,PS3,Sports,Electronic Arts,89.0,8,E,Sports
+41,PS2,Misc,Activision,82.0,8.2,T,Puzzle
+42,PS3,Action,Sony Computer Entertainment,88.0,8.1,T,Action
+43,PS2,Sports,Electronic Arts,88.0,8,E,Sports
+44,PC,Strategy,Activision,93.0,8.2,T,Strategy
+45,PS3,Adventure,Ubisoft,81.0,7.3,M,Adventure
+46,PS3,Action,Sony Computer Entertainment,92.0,8.7,M,Action
+47,PS2,Action,Electronic Arts,82.0,8.2,T,Action
+48,PS2,Sports,Electronic Arts,91.0,7.9,E,Sports
+49,X360,Misc,Activision,85.0,7.9,T,Puzzle
+50,PS2,Sports,Electronic Arts,84.0,8.2,E,Sports
+51,PS2,Action,Activision,76.0,7.9,E,Action
+52,PS2,Action,Sony Computer Entertainment,94.0,8.9,M,Action
+53,PS2,Sports,Activision,97.0,7.5,T,Sports
+54,PS2,Racing,Electronic Arts,82.0,9.1,T,Sports
+55,PS3,Shooter,Sony Computer Entertainment,86.0,8.1,M,Action
+56,PS3,Action,Ubisoft,80.0,7.5,M,Action
+57,X360,Sports,Electronic Arts,84.0,4.2,E,Sports
+58,PS2,Sports,Electronic Arts,80.0,7.8,E,Sports
+59,PS2,Misc,Sony Computer Entertainment,80.0,7.5,E,Puzzle
+60,PS3,Racing,Sony Computer Entertainment,80.0,7.1,E,Sports
+61,X360,Action,Ubisoft,80.0,7.2,M,Action
+62,PS2,Sports,Electronic Arts,95.0,7.7,E,Sports
+63,PC,Role-Playing,Activision,91.0,7.9,T,Strategy
+64,PS2,Action,Sony Computer Entertainment,93.0,8.9,M,Action
+65,X360,Shooter,Electronic Arts,89.0,8.6,M,Action
+66,PS2,Sports,Activision,90.0,8.7,T,Sports
+67,PS3,Racing,Sony Computer Entertainment,84.0,7.4,T,Sports
+68,PS3,Sports,Sony Computer Entertainment,76.0,7.9,E10+,Sports
+69,X360,Action,Activision,77.0,7.5,E10+,Action
+70,PC,Simulation,Electronic Arts,79.0,8,T,Strategy
+71,PS3,Action,Ubisoft,88.0,8.1,M,Action
+72,PS2,Sports,Electronic Arts,81.0,7.6,E,Sports
+73,PS2,Sports,Activision,94.0,8.5,T,Sports
+74,PS2,Shooter,Sony Computer Entertainment,82.0,7.9,M,Action
+75,PS2,Platform,Sony Computer Entertainment,90.0,8.7,E,Adventure
+76,PS3,Sports,Electronic Arts,91.0,7.6,E,Sports
+77,PS2,Racing,Electronic Arts,64.0,7.7,T,Sports
+78,PS2,Action,Sony Computer Entertainment,72.0,6.8,M,Action
+79,PS2,Shooter,Electronic Arts,72.0,7.9,T,Action
+80,X360,Sports,Electronic Arts,88.0,7.5,E,Sports
+81,X360,Shooter,Electronic Arts,89.0,7.9,M,Action
+82,X360,Action,Ubisoft,89.0,8.3,M,Action
+83,PS3,Shooter,Electronic Arts,80.0,5.8,M,Action
+84,X360,Shooter,Electronic Arts,79.0,5.6,M,Action
+85,X360,Shooter,Electronic Arts,88.0,8.6,M,Action
+86,PS2,Action,Activision,80.0,8.9,T,Action
+87,PS2,Sports,Electronic Arts,88.0,6.7,E,Sports
+88,PS3,Platform,Sony Computer Entertainment,91.0,8.4,E,Adventure
+89,PS3,Shooter,Ubisoft,90.0,8.5,M,Action
+90,PS2,Shooter,Electronic Arts,77.0,8.5,T,Action
+91,X360,Action,Ubisoft,86.0,7.9,M,Action
+92,PS2,Action,Electronic Arts,85.0,8.7,T,Action
+93,PS2,Action,Activision,77.0,8,M,Action
+94,PS3,Racing,Sony Computer Entertainment,81.0,7.7,E,Sports
+95,PS2,Sports,Electronic Arts,83.0,6.5,E,Sports
+96,PS3,Role-Playing,Ubisoft,93.0,8,M,Strategy
+97,X360,Role-Playing,Electronic Arts,96.0,8.9,M,Strategy
+98,PS2,Sports,Electronic Arts,94.0,7.9,E,Sports
+99,PC,Simulation,Electronic Arts,75.0,7.8,T,Strategy
+100,PC,Simulation,Electronic Arts,70.0,3.9,T,Strategy
+101,X360,Action,Activision,75.0,7.4,E10+,Action
+102,X360,Role-Playing,Electronic Arts,93.0,5.8,M,Strategy
+103,PS3,Adventure,Sony Computer Entertainment,87.0,7.7,M,Adventure
+104,X360,Action,THQ,81.0,8.1,M,Action
+105,XB,Action,Ubisoft,93.0,8.5,T,Action
+106,PS3,Shooter,Sony Computer Entertainment,91.0,8.1,M,Action
+107,X360,Shooter,Ubisoft,91.0,8.6,M,Action
+108,PC,Misc,Electronic Arts,82.0,6.6,T,Puzzle
+109,PC,Role-Playing,Electronic Arts,85.0,5.9,T,Strategy
+110,PS3,Shooter,Electronic Arts,88.0,8.5,M,Action
+111,PS2,Shooter,Sony Computer Entertainment,87.0,9,M,Action
+112,PS3,Action,Sony Computer Entertainment,85.0,8.3,T,Action
+113,PS2,Sports,Sony Computer Entertainment,85.0,8.9,E,Sports
+114,PS2,Shooter,Activision,76.0,7.7,T,Action
+115,X360,Sports,Electronic Arts,81.0,5.8,E,Sports
+116,XB,Role-Playing,Ubisoft,87.0,8.7,T,Strategy
+117,X360,Sports,Electronic Arts,85.0,6.1,E,Sports
+118,PS3,Action,Ubisoft,90.0,8.2,M,Action
+119,PS3,Shooter,Electronic Arts,75.0,7.5,M,Action
+120,PS2,Sports,Electronic Arts,89.0,8.6,E,Sports
+121,PS2,Platform,Sony Computer Entertainment,87.0,8.2,T,Adventure
+122,PS3,Racing,Electronic Arts,89.0,7.2,E10+,Sports
+123,PC,Shooter,Electronic Arts,89.0,7.5,M,Action
+124,PS2,Simulation,Electronic Arts,83.0,7.7,T,Strategy
+125,PS3,Shooter,Sony Computer Entertainment,84.0,7.9,M,Action
+126,X360,Action,THQ,84.0,7.6,M,Action
+127,X360,Shooter,Activision,82.0,6.5,T,Action
+128,X360,Sports,Electronic Arts,78.0,5.9,E,Sports
+129,X360,Sports,Electronic Arts,84.0,5.7,E,Sports
+130,PS2,Racing,Electronic Arts,93.0,9.1,T,Sports
+131,PS2,Shooter,Activision,77.0,8.2,T,Action
+132,X360,Misc,Activision,85.0,6.3,T,Puzzle
+133,PS2,Action,Ubisoft,89.0,7.7,T,Action
+134,PS3,Racing,Electronic Arts,84.0,6.9,E,Sports
+135,X360,Sports,Electronic Arts,80.0,8,T,Sports
+136,X360,Sports,Electronic Arts,90.0,7.5,E,Sports
+137,X360,Shooter,Electronic Arts,74.0,6.7,M,Action
+138,PS2,Action,Electronic Arts,71.0,7.6,E,Action
+139,PS3,Action,Sony Computer Entertainment,91.0,8.7,M,Action
+140,PS2,Sports,Electronic Arts,84.0,8.1,E,Sports
+141,PS3,Sports,Electronic Arts,87.0,7.5,E,Sports
+142,PS2,Fighting,THQ,80.0,8.6,T,Sports
+143,PS2,Sports,Electronic Arts,78.0,7.8,E,Sports
+144,PS3,Sports,Electronic Arts,83.0,5.5,E,Sports
+145,X360,Role-Playing,Electronic Arts,86.0,7.9,M,Strategy
+146,X360,Sports,Electronic Arts,83.0,7,E,Sports
+147,X360,Role-Playing,Activision,82.0,7.5,T,Strategy
+148,PS3,Action,THQ,82.0,7.7,M,Action
+149,PS3,Shooter,Sony Computer Entertainment,87.0,6.1,M,Action
+150,PS2,Simulation,Electronic Arts,81.0,8.4,T,Strategy
+151,X360,Shooter,Ubisoft,82.0,7.8,M,Action
+152,PS2,Racing,Sony Computer Entertainment,82.0,8.4,E,Sports
+153,PS2,Racing,Electronic Arts,62.0,6.2,E10+,Sports
+154,PS3,Sports,Electronic Arts,83.0,6.1,E,Sports
+155,PS2,Action,THQ,62.0,7.6,T,Action
+156,X360,Sports,Electronic Arts,85.0,6.4,E,Sports
+157,PS2,Sports,Activision,83.0,8.8,T,Sports
+158,PS3,Sports,Electronic Arts,85.0,6.8,E,Sports
+159,PS2,Fighting,THQ,71.0,7.2,T,Sports
+160,PS2,Shooter,Electronic Arts,84.0,9.1,T,Action
+161,XB,Racing,Electronic Arts,77.0,8.7,E,Sports
+162,PS2,Sports,Electronic Arts,82.0,6.9,E,Sports
+163,X360,Simulation,Electronic Arts,76.0,7.1,T,Strategy
+164,PS3,Sports,Electronic Arts,79.0,5.5,E,Sports
+165,PS3,Action,Sony Computer Entertainment,80.0,7.5,M,Action
+166,PS3,Misc,Activision,83.0,7.8,T,Puzzle
+167,X360,Sports,Electronic Arts,80.0,5.6,E,Sports
+168,PS2,Action,Ubisoft,92.0,8.8,T,Action
+169,X360,Misc,Activision,92.0,8.1,T,Puzzle
+170,X360,Misc,Electronic Arts,92.0,8.3,T,Puzzle
+171,X360,Racing,Electronic Arts,88.0,7,E10+,Sports
+172,XB,Role-Playing,Activision,94.0,9.2,T,Strategy
+173,X360,Action,THQ,81.0,7.5,M,Action
+174,PS2,Racing,THQ,82.0,8.9,E,Sports
+175,PC,Simulation,Electronic Arts,74.0,7.9,T,Strategy
+176,PS2,Racing,Electronic Arts,89.0,8.5,E,Sports
+177,PC,Role-Playing,Activision,90.0,5.6,T,Strategy
+178,PS2,Puzzle,THQ,44.0,6.2,E,Puzzle
+179,X360,Fighting,THQ,83.0,7.9,T,Sports
+180,X360,Racing,Electronic Arts,72.0,7.1,E10+,Sports
+181,PS3,Racing,Electronic Arts,59.0,5.9,T,Sports
+182,PS2,Shooter,Sony Computer Entertainment,72.0,9,T,Action
+183,PS2,Action,Ubisoft,82.0,8.2,T,Action
+184,PS3,Racing,Electronic Arts,73.0,6,E10+,Sports
+185,PS2,Sports,Electronic Arts,86.0,7.7,E,Sports
+186,X360,Shooter,Activision,89.0,8.1,T,Action
+187,X360,Misc,Ubisoft,70.0,7.7,E10+,Puzzle
+188,PS3,Action,Electronic Arts,64.0,6.4,T,Action
+189,PS3,Action,Electronic Arts,88.0,8.8,M,Action
+190,PS3,Sports,Electronic Arts,80.0,7.6,T,Sports
+191,X360,Shooter,Ubisoft,88.0,8.3,M,Action
+192,PS2,Sports,Electronic Arts,90.0,8.8,E,Sports
+193,PS2,Fighting,Electronic Arts,80.0,8.9,T,Sports
+194,PS3,Racing,Electronic Arts,87.0,7.7,E10+,Sports
+195,PS3,Simulation,Electronic Arts,78.0,6.4,T,Strategy
+196,X360,Sports,Electronic Arts,87.0,8,E,Sports
+197,PS2,Shooter,Ubisoft,63.0,8.3,M,Action
+198,PS2,Role-Playing,Activision,79.0,8.5,T,Strategy
+199,PS2,Shooter,THQ,88.0,8,M,Action
+200,PC,Simulation,Electronic Arts,80.0,8.6,T,Strategy
+201,PS2,Racing,THQ,80.0,9.2,E,Sports
+202,PS3,Misc,Activision,84.0,7.5,T,Puzzle
+203,X360,Racing,Electronic Arts,83.0,6.5,E,Sports
+204,PS3,Role-Playing,Activision,86.0,6.4,M,Strategy
+205,PS3,Sports,Electronic Arts,85.0,4.4,E,Sports
+206,PS3,Sports,Electronic Arts,76.0,4.1,E,Sports
+207,PS2,Action,THQ,78.0,9.1,T,Action
+208,XB,Sports,Electronic Arts,86.0,6.7,E,Sports
+209,PS2,Platform,Activision,71.0,8.5,E,Adventure
+210,PS2,Sports,Electronic Arts,70.0,7.4,E,Sports
+211,PS2,Platform,Sony Computer Entertainment,84.0,8.6,T,Adventure
+212,PS2,Sports,Electronic Arts,87.0,8.5,E,Sports
+213,PS3,Action,Sony Computer Entertainment,83.0,8.4,T,Action
+214,PC,Role-Playing,Activision,82.0,4.8,T,Strategy
+215,PC,Simulation,Electronic Arts,85.0,7.9,T,Strategy
+216,X360,Shooter,Electronic Arts,96.0,8.9,M,Action
+217,PS2,Platform,Sony Computer Entertainment,88.0,9,E,Adventure
+218,X360,Sports,Electronic Arts,80.0,6,E,Sports
+219,PS2,Action,Sony Computer Entertainment,57.0,7.6,M,Action
+220,PS3,Fighting,THQ,84.0,8.1,T,Sports
+221,PS2,Platform,THQ,75.0,9,E,Adventure
+222,PS2,Fighting,Electronic Arts,83.0,8.9,M,Sports
+223,XB,Shooter,Ubisoft,84.0,6.1,M,Action
+224,PS2,Simulation,Electronic Arts,70.0,8.2,T,Strategy
+225,PS2,Simulation,Activision,84.0,8,T,Strategy
+226,XB,Shooter,Activision,80.0,9.1,T,Action
+227,PS3,Sports,Electronic Arts,81.0,7.1,E,Sports
+228,PS2,Sports,Electronic Arts,92.0,8.9,E,Sports
+229,XB,Sports,Electronic Arts,91.0,7.6,E,Sports
+230,PS2,Role-Playing,Ubisoft,80.0,7.7,T,Strategy
+231,PC,Shooter,Activision,78.0,2.5,M,Action
+232,XB,Racing,Electronic Arts,83.0,8.7,E,Sports
+233,PS2,Sports,Electronic Arts,87.0,8.6,E,Sports
+234,PC,Simulation,Electronic Arts,74.0,5.3,T,Strategy
+235,PS2,Shooter,Sony Computer Entertainment,82.0,8.8,M,Action
+236,X360,Racing,Electronic Arts,64.0,5.9,T,Sports
+237,PS3,Action,THQ,82.0,7.9,M,Action
+238,PC,Simulation,Electronic Arts,79.0,8.2,T,Strategy
+239,PS2,Sports,Electronic Arts,93.0,9.1,E,Sports
+240,XB,Shooter,Activision,83.0,8.9,T,Action
+241,PS3,Role-Playing,Electronic Arts,87.0,7.9,M,Strategy
+242,PS2,Sports,Electronic Arts,94.0,8.8,E,Sports
+243,PS3,Fighting,Electronic Arts,83.0,7.9,T,Sports
+244,PC,Strategy,Activision,86.0,7.9,T,Strategy
+245,PS2,Platform,THQ,71.0,9,E,Adventure
+246,PS2,Sports,Electronic Arts,93.0,8.3,E,Sports
+247,PS2,Sports,Electronic Arts,83.0,8.3,E,Sports
+248,X360,Racing,Electronic Arts,77.0,6.3,E10+,Sports
+249,PS3,Action,Sony Computer Entertainment,79.0,8.3,T,Action
+250,X360,Shooter,Electronic Arts,72.0,7.6,M,Action
+251,PS2,Sports,Electronic Arts,88.0,8.9,E,Sports
+252,PS2,Action,Ubisoft,83.0,8.5,M,Action
+253,PS3,Adventure,Sony Computer Entertainment,70.0,8.1,M,Adventure
+254,PS2,Sports,Electronic Arts,89.0,8.8,E,Sports
+255,PS2,Sports,Electronic Arts,88.0,8.8,E,Sports
+256,PS2,Sports,Electronic Arts,77.0,8.7,E,Sports
+257,PC,Role-Playing,Activision,94.0,8.7,M,Strategy
+258,X360,Action,Ubisoft,85.0,6.7,M,Action
+259,X360,Fighting,Ubisoft,85.0,7.9,T,Sports
+260,PS2,Sports,Electronic Arts,90.0,8.7,E,Sports
+261,PS2,Fighting,Electronic Arts,84.0,8.1,T,Sports
+262,X360,Racing,Electronic Arts,83.0,8.5,T,Sports
+263,XB,Shooter,Ubisoft,86.0,8.5,M,Action
+264,PS2,Role-Playing,Sony Computer Entertainment,80.0,8.2,T,Strategy
+265,PC,Strategy,Activision,88.0,9,T,Strategy
+266,X360,Shooter,Ubisoft,90.0,8,T,Action
+267,PS2,Sports,Electronic Arts,87.0,8.6,E,Sports
+268,PC,Shooter,Activision,74.0,4.2,M,Action
+269,PS2,Sports,Electronic Arts,38.0,5,T,Sports
+270,PS3,Fighting,Electronic Arts,88.0,7.6,T,Sports
+271,X360,Shooter,Electronic Arts,90.0,8.6,M,Action
+272,PS2,Action,Electronic Arts,68.0,8.2,T,Action
+273,PS3,Shooter,Activision,80.0,6.9,T,Action
+274,PS2,Shooter,THQ,84.0,8.3,M,Action
+275,PS2,Sports,Electronic Arts,91.0,7.7,E,Sports
+276,XB,Shooter,Electronic Arts,81.0,6.9,T,Action
+277,PS2,Sports,Electronic Arts,67.0,7,E,Sports
+278,PS3,Shooter,Sony Computer Entertainment,83.0,7.8,M,Action
+279,X360,Action,Activision,65.0,7.1,T,Action
+280,PS2,Fighting,Electronic Arts,85.0,9,T,Sports
+281,XB,Action,Ubisoft,93.0,8.6,T,Action
+282,X360,Shooter,Ubisoft,79.0,7.2,M,Action
+283,X360,Fighting,Electronic Arts,86.0,8.8,T,Sports
+284,PS3,Fighting,Ubisoft,85.0,7.9,T,Sports
+285,X360,Shooter,Electronic Arts,83.0,7.7,T,Action
+286,X360,Shooter,THQ,70.0,6,M,Action
+287,PS3,Role-Playing,Electronic Arts,94.0,8.5,M,Strategy
+288,PS2,Misc,Sony Computer Entertainment,73.0,7.5,E10+,Puzzle
+289,PS2,Sports,Electronic Arts,88.0,8.2,E,Sports
+290,PS2,Sports,Electronic Arts,91.0,8.6,E,Sports
+291,X360,Fighting,THQ,71.0,6.8,T,Sports
+292,PC,Strategy,Ubisoft,83.0,7,T,Strategy
+293,PS3,Role-Playing,Electronic Arts,93.0,5.5,M,Strategy
+294,PS2,Sports,Activision,59.0,7.8,T,Sports
+295,PC,Simulation,Electronic Arts,64.0,2.2,E10+,Strategy
+296,PS2,Sports,Electronic Arts,80.0,8.9,E,Sports
+297,PS3,Shooter,Electronic Arts,89.0,8.4,M,Action
+298,PS3,Fighting,THQ,85.0,7.2,T,Sports
+299,PS3,Action,Electronic Arts,55.0,6,M,Action
+300,X360,Role-Playing,Activision,87.0,6.6,M,Strategy
+301,PS2,Racing,Sony Computer Entertainment,91.0,8.4,M,Sports
+302,PS2,Racing,Electronic Arts,87.0,8.4,E,Sports
+303,X360,Fighting,Electronic Arts,87.0,8.1,T,Sports
+304,XB,Action,Activision,79.0,7.5,E,Action
+305,X360,Action,Electronic Arts,89.0,8.7,M,Action
+306,PS3,Action,Ubisoft,85.0,6.4,M,Action
+307,XB,Action,Activision,77.0,7.8,M,Action
+308,XB,Role-Playing,Activision,86.0,8.6,T,Strategy
+309,XB,Shooter,Ubisoft,80.0,8.9,T,Action
+310,X360,Action,Electronic Arts,68.0,6,T,Action
+311,X360,Shooter,Electronic Arts,83.0,5.9,M,Action
+312,PS2,Shooter,Electronic Arts,73.0,8.9,M,Action
+313,PS3,Action,THQ,76.0,8.1,T,Action
+314,X360,Racing,Electronic Arts,88.0,6.9,E10+,Sports
+315,PS3,Racing,Sony Computer Entertainment,82.0,8,T,Sports
+316,PS2,Action,Electronic Arts,73.0,8.7,T,Action
+317,PC,Shooter,Electronic Arts,81.0,6,M,Action
+318,X360,Sports,Electronic Arts,82.0,7.9,E,Sports
+319,PS3,Shooter,Ubisoft,81.0,7.9,M,Action
+320,X360,Action,Electronic Arts,84.0,7.5,M,Action
+321,XB,Shooter,Activision,88.0,7.4,M,Action
+322,PS2,Racing,Electronic Arts,74.0,8.4,E10+,Sports
+323,PS3,Shooter,Electronic Arts,84.0,8.1,T,Action
+324,PS2,Sports,Electronic Arts,90.0,8.6,E,Sports
+325,PS3,Fighting,THQ,74.0,7.3,T,Sports
+326,X360,Platform,Activision,83.0,5.7,E10+,Adventure
+327,X360,Fighting,THQ,84.0,6.7,T,Sports
+328,PC,Role-Playing,Activision,91.0,7.5,T,Strategy
+329,X360,Sports,Ubisoft,73.0,7.5,E,Sports
+330,PS2,Platform,Activision,69.0,7.4,E10+,Adventure
+331,X360,Action,Activision,78.0,7.8,M,Action
+332,XB,Racing,Electronic Arts,94.0,7.2,T,Sports
+333,PS2,Sports,Electronic Arts,63.0,6,E,Sports
+334,X360,Action,Activision,80.0,6.6,E10+,Action
+335,PS2,Misc,Sony Computer Entertainment,78.0,8.3,T,Puzzle
+336,PS3,Action,Electronic Arts,85.0,7.2,M,Action
+337,PS3,Action,Ubisoft,72.0,7.5,M,Action
+338,PC,Simulation,Electronic Arts,76.0,6.6,T,Strategy
+339,XB,Sports,Activision,85.0,9.1,T,Sports
+340,X360,Fighting,THQ,71.0,6.3,T,Sports
+341,X360,Action,THQ,78.0,8,T,Action
+342,PS3,Racing,Electronic Arts,80.0,4.9,E10+,Sports
+343,PS3,Shooter,Sony Computer Entertainment,63.0,6.9,M,Action
+344,X360,Racing,Electronic Arts,83.0,8.5,T,Sports
+345,PS2,Shooter,Electronic Arts,79.0,8.4,M,Action
+346,PS3,Shooter,Ubisoft,86.0,7.6,M,Action
+347,PS2,Action,Ubisoft,87.0,8.6,T,Action
+348,PS2,Shooter,Sony Computer Entertainment,81.0,8.9,T,Action
+349,PS2,Fighting,THQ,78.0,6.9,T,Sports
+350,XB,Action,Activision,61.0,8.1,T,Action
+351,PS3,Action,Activision,79.0,7.7,M,Action
+352,PS3,Sports,Electronic Arts,76.0,6.4,E,Sports
+353,X360,Misc,Activision,70.0,6.7,T,Puzzle
+354,PS3,Racing,Electronic Arts,75.0,7.3,E10+,Sports
+355,PS3,Sports,Electronic Arts,82.0,7.8,E,Sports
+356,PS2,Racing,THQ,71.0,8.4,E,Sports
+357,XB,Shooter,Activision,73.0,7.8,T,Action
+358,PS2,Platform,Sony Computer Entertainment,86.0,8.6,E,Adventure
+359,PS3,Shooter,Electronic Arts,75.0,7.6,T,Action
+360,PS2,Sports,Electronic Arts,92.0,8.5,E,Sports
+361,X360,Misc,Ubisoft,77.0,7.7,E10+,Puzzle
+362,PS2,Shooter,Activision,77.0,8.7,M,Action
+363,PS2,Platform,Electronic Arts,70.0,8.8,E,Adventure
+364,PS3,Fighting,THQ,72.0,6.9,T,Sports
+365,PS3,Fighting,THQ,81.0,8.1,T,Sports
+366,XB,Shooter,Electronic Arts,65.0,5.8,T,Action
+367,PS3,Shooter,Electronic Arts,74.0,7.3,M,Action
+368,PC,Strategy,Electronic Arts,84.0,5.3,E10+,Strategy
+369,PS2,Shooter,Ubisoft,70.0,6.3,T,Action
+370,X360,Platform,Electronic Arts,79.0,7.6,T,Adventure
+371,PS2,Racing,Electronic Arts,85.0,8.5,E,Sports
+372,X360,Sports,Ubisoft,77.0,7.6,E,Sports
+373,X360,Action,Electronic Arts,53.0,5.4,M,Action
+374,PC,Shooter,Activision,92.0,8.5,M,Action
+375,PS2,Platform,THQ,68.0,9,E,Adventure
+376,PS2,Action,Activision,79.0,8.4,M,Action
+377,PS2,Action,Sony Computer Entertainment,91.0,9.1,T,Action
+378,PS3,Action,Activision,65.0,6.6,T,Action
+379,XB,Action,Electronic Arts,84.0,9.1,T,Action
+380,PS3,Sports,Sony Computer Entertainment,81.0,8.8,E,Sports
+381,XB,Shooter,Ubisoft,84.0,8.6,M,Action
+382,PS3,Platform,Electronic Arts,79.0,7.8,T,Adventure
+383,X360,Misc,Activision,85.0,6.8,T,Puzzle
+384,PS3,Misc,Sony Computer Entertainment,82.0,5.9,T,Puzzle
+385,PS2,Racing,Activision,57.0,7.6,E,Sports
+386,PS3,Racing,Sony Computer Entertainment,82.0,8.4,E,Sports
+387,PS3,Misc,Ubisoft,80.0,8.3,T,Puzzle
+388,XB,Shooter,Activision,78.0,5.1,T,Action
+389,X360,Misc,Ubisoft,77.0,8.2,T,Puzzle
+390,PS2,Misc,Activision,71.0,2.6,T,Puzzle
+391,XB,Action,Activision,83.0,8.3,T,Action
+392,X360,Action,Electronic Arts,79.0,4.5,M,Action
+393,PS3,Fighting,Electronic Arts,84.0,7.3,M,Sports
+394,XB,Action,Ubisoft,94.0,9,M,Action
+395,X360,Shooter,Electronic Arts,73.0,6.7,T,Action
+396,X360,Sports,Electronic Arts,77.0,5.8,E,Sports
+397,PS3,Misc,Activision,86.0,5.7,T,Puzzle
+398,XB,Sports,Electronic Arts,92.0,8.3,E,Sports
+399,PS2,Action,Electronic Arts,75.0,8.3,M,Action
+400,PS3,Fighting,THQ,74.0,6.9,T,Sports
+401,X360,Action,Electronic Arts,76.0,5.5,E,Action
+402,X360,Sports,Electronic Arts,84.0,8,T,Sports
+403,PS2,Racing,Electronic Arts,88.0,8.9,E,Sports
+404,PS3,Action,Electronic Arts,75.0,7.5,M,Action
+405,PS2,Shooter,Ubisoft,58.0,6,T,Action
+406,X360,Shooter,Electronic Arts,69.0,7.3,E10+,Action
+407,PS2,Shooter,Activision,82.0,7.4,T,Action
+408,PS3,Action,Ubisoft,85.0,7.3,T,Action
+409,PS2,Racing,Electronic Arts,81.0,7.3,E,Sports
+410,PS3,Shooter,Electronic Arts,89.0,8.4,M,Action
+411,X360,Misc,Activision,84.0,8,T,Puzzle
+412,PS2,Sports,Electronic Arts,89.0,8.7,E,Sports
+413,PS3,Action,Activision,77.0,6.3,E10+,Action
+414,X360,Action,THQ,83.0,7.9,M,Action
+415,X360,Shooter,Electronic Arts,72.0,7.2,T,Action
+416,PS3,Simulation,Sony Computer Entertainment,84.0,8.4,T,Strategy
+417,XB,Racing,Electronic Arts,61.0,8.3,T,Sports
+418,PS2,Sports,Electronic Arts,81.0,8.9,E,Sports
+419,X360,Fighting,THQ,80.0,8.4,T,Sports
+420,XB,Racing,Electronic Arts,83.0,8.8,T,Sports
+421,X360,Action,Electronic Arts,71.0,7.7,T,Action
+422,PS2,Racing,THQ,79.0,8.4,E,Sports
+423,PS3,Action,THQ,86.0,7.4,T,Action
+424,PS3,Shooter,Ubisoft,84.0,8.1,T,Action
+425,PS2,Sports,Electronic Arts,82.0,8.8,E,Sports
+426,PS3,Action,Activision,77.0,7.7,E10+,Action
+427,X360,Shooter,Ubisoft,86.0,8.1,T,Action
+428,X360,Action,Activision,71.0,7.4,E10+,Action
+429,X360,Shooter,Electronic Arts,84.0,7.6,M,Action
+430,PS3,Platform,Activision,83.0,5.3,E10+,Adventure
+431,XB,Sports,Electronic Arts,83.0,8.7,E,Sports
+432,PS2,Action,Electronic Arts,70.0,8.7,E,Action
+433,X360,Action,Ubisoft,72.0,7.3,M,Action
+434,X360,Action,Ubisoft,81.0,7,T,Action
+435,PS3,Platform,Ubisoft,87.0,8.4,E10+,Adventure
+436,X360,Misc,Ubisoft,79.0,7.8,E10+,Puzzle
+437,X360,Sports,Electronic Arts,82.0,6.6,E,Sports
+438,X360,Action,THQ,85.0,7.6,T,Action
+439,PS3,Shooter,Ubisoft,55.0,6.5,M,Action
+440,PS2,Action,Sony Computer Entertainment,66.0,8,T,Action
+441,PS3,Misc,Activision,70.0,5,T,Puzzle
+442,PS3,Simulation,Sony Computer Entertainment,70.0,8.2,E,Strategy
+443,X360,Action,Electronic Arts,78.0,6.4,M,Action
+444,X360,Action,Ubisoft,82.0,7.5,M,Action
+445,XB,Sports,Electronic Arts,87.0,8.3,E,Sports
+446,PS3,Sports,Electronic Arts,81.0,5.3,E,Sports
+447,X360,Action,Electronic Arts,82.0,8,M,Action
+448,PS2,Sports,Electronic Arts,85.0,7.6,E,Sports
+449,XB,Sports,Electronic Arts,81.0,8.7,E,Sports
+450,PC,Role-Playing,Electronic Arts,89.0,5.5,M,Strategy
+451,X360,Action,Activision,78.0,5.2,E10+,Action
+452,PS2,Role-Playing,Sony Computer Entertainment,87.0,9.1,T,Strategy
+453,PC,Shooter,Ubisoft,88.0,8.2,M,Action
+454,PS3,Action,Electronic Arts,76.0,6.4,M,Action
+455,PS2,Sports,Electronic Arts,85.0,8.1,E,Sports
+456,PS2,Platform,Sony Computer Entertainment,71.0,7.9,M,Adventure
+457,PS2,Action,Ubisoft,87.0,8.6,M,Action
+458,PS3,Action,Sony Computer Entertainment,74.0,7.3,T,Action
+459,PS3,Shooter,Ubisoft,79.0,6.9,M,Action
+460,PS2,Strategy,Electronic Arts,75.0,8.4,T,Strategy
+461,PS3,Racing,Ubisoft,79.0,7.7,T,Sports
+462,X360,Shooter,Electronic Arts,73.0,7.3,M,Action
+463,PS2,Shooter,Sony Computer Entertainment,70.0,7.4,M,Action
+464,PS3,Action,Ubisoft,84.0,7.7,M,Action
+465,PS3,Action,Activision,77.0,4.8,E10+,Action
+466,PS3,Fighting,THQ,78.0,7,T,Sports
+467,X360,Sports,Electronic Arts,83.0,6.7,E,Sports
+468,PS3,Action,Electronic Arts,83.0,7.6,M,Action
+469,XB,Action,Ubisoft,92.0,7.8,T,Action
+470,PS2,Sports,Sony Computer Entertainment,83.0,8.9,E,Sports
+471,PS2,Sports,Electronic Arts,79.0,6.8,E,Sports
+472,XB,Sports,Activision,90.0,8.5,T,Sports
+473,PS3,Role-Playing,Sony Computer Entertainment,64.0,7.5,T,Strategy
+474,PS3,Misc,Sony Computer Entertainment,70.0,5.5,T,Puzzle
+475,PS2,Sports,Sony Computer Entertainment,83.0,8.6,E,Sports
+476,X360,Misc,Activision,39.0,5.6,E10+,Puzzle
+477,PS3,Shooter,Ubisoft,76.0,8,M,Action
+478,PC,Action,Ubisoft,80.0,6.2,M,Action
+479,X360,Sports,Electronic Arts,86.0,7.1,E,Sports
+480,PS3,Role-Playing,Ubisoft,85.0,8.5,M,Strategy
+481,X360,Role-Playing,Ubisoft,82.0,8.4,M,Strategy
+482,PS3,Sports,Sony Computer Entertainment,87.0,7.5,E,Sports
+483,X360,Action,Electronic Arts,73.0,7.7,M,Action
+484,X360,Fighting,THQ,79.0,7.1,T,Sports
+485,PS3,Sports,Electronic Arts,78.0,5.4,E,Sports
+486,PS2,Sports,Electronic Arts,76.0,8.1,T,Sports
+487,X360,Strategy,Ubisoft,77.0,7.2,T,Strategy
+488,PS3,Sports,Electronic Arts,81.0,6.8,E,Sports
+489,PS2,Sports,Electronic Arts,80.0,7.6,E,Sports
+490,PS2,Sports,Sony Computer Entertainment,78.0,7.6,E,Sports
+491,X360,Role-Playing,Activision,73.0,7.3,T,Strategy
+492,PS2,Racing,Electronic Arts,90.0,8.8,E10+,Sports
+493,X360,Shooter,Electronic Arts,76.0,6.7,M,Action
+494,PS3,Shooter,THQ,70.0,5.7,M,Action
+495,PS2,Sports,Sony Computer Entertainment,70.0,8.1,E,Sports
+496,PS3,Racing,THQ,74.0,7.4,E,Sports
+497,PS2,Platform,Activision,50.0,6.5,T,Adventure
+498,XB,Shooter,Electronic Arts,71.0,7.5,T,Action
+499,PS3,Misc,Activision,86.0,7.8,T,Puzzle
+500,XB,Role-Playing,Activision,82.0,8.5,T,Strategy
+501,XB,Sports,Electronic Arts,85.0,7.6,E,Sports
+502,PS2,Sports,Electronic Arts,68.0,6.6,E,Sports
+503,PS3,Shooter,Sony Computer Entertainment,67.0,6.3,M,Action
+504,PS2,Sports,Electronic Arts,83.0,6.2,E,Sports
+505,X360,Sports,Electronic Arts,77.0,6.7,E,Sports
+506,PS3,Sports,Electronic Arts,80.0,7.3,E,Sports
+507,PS3,Action,Activision,70.0,7.1,E10+,Action
+508,PS3,Action,Electronic Arts,79.0,4.1,E,Action
+509,PS3,Action,Electronic Arts,71.0,7.5,T,Action
+510,PC,Shooter,Activision,86.0,4.2,M,Action
+511,PS3,Shooter,Ubisoft,78.0,7.8,M,Action
+512,X360,Fighting,THQ,75.0,7.6,T,Sports
+513,XB,Shooter,Ubisoft,81.0,8.8,M,Action
+514,X360,Role-Playing,Electronic Arts,80.0,7.7,M,Strategy
+515,X360,Misc,Ubisoft,63.0,6.8,E10+,Puzzle
+516,PS3,Action,Sony Computer Entertainment,73.0,6.9,E,Action
+517,PS2,Sports,Activision,69.0,7.3,T,Sports
+518,X360,Shooter,THQ,85.0,8.1,M,Action
+519,PS2,Fighting,Electronic Arts,88.0,9,T,Sports
+520,X360,Shooter,Ubisoft,76.0,8.3,M,Action
+521,PS3,Shooter,Electronic Arts,77.0,6.3,M,Action
+522,PS3,Shooter,Electronic Arts,72.0,7.1,T,Action
+523,X360,Misc,Activision,72.0,6.5,T,Puzzle
+524,X360,Sports,Electronic Arts,83.0,8.1,E,Sports
+525,XB,Sports,Electronic Arts,88.0,8.9,E,Sports
+526,PS3,Role-Playing,Electronic Arts,81.0,7.6,M,Strategy
+527,PS2,Action,THQ,65.0,8,E,Action
+528,PS3,Sports,Electronic Arts,85.0,7.4,E,Sports
+529,PS3,Shooter,Electronic Arts,74.0,7,M,Action
+530,PS3,Action,THQ,84.0,7.1,M,Action
+531,PS3,Action,Sony Computer Entertainment,78.0,7.9,T,Action
+532,PS3,Sports,Electronic Arts,84.0,7.8,T,Sports
+533,PS2,Role-Playing,Sony Computer Entertainment,83.0,8.4,T,Strategy
+534,PS3,Sports,Electronic Arts,77.0,6.2,E,Sports
+535,PS2,Action,THQ,75.0,8.8,T,Action
+536,PS3,Sports,Electronic Arts,82.0,5.8,E,Sports
+537,PS3,Sports,Electronic Arts,78.0,6.7,E,Sports
+538,PS2,Platform,Sony Computer Entertainment,83.0,8.8,E10+,Adventure
+539,PS3,Action,Electronic Arts,82.0,4.3,M,Action
+540,XB,Shooter,Electronic Arts,78.0,7.8,T,Action
+541,PS2,Role-Playing,Activision,81.0,8.2,T,Strategy
+542,X360,Misc,Activision,86.0,7.9,T,Puzzle
+543,XB,Racing,Electronic Arts,75.0,6.4,E,Sports
+544,PS2,Shooter,Ubisoft,70.0,8.2,M,Action
+545,PS3,Sports,Electronic Arts,80.0,6.9,E,Sports
+546,PS3,Misc,Activision,74.0,7.1,T,Puzzle
+547,PS2,Simulation,Electronic Arts,75.0,4.4,T,Strategy
+548,XB,Action,Ubisoft,83.0,7.5,M,Action
+549,X360,Misc,Activision,84.0,8.1,T,Puzzle
+550,PS2,Misc,Activision,71.0,6.3,T,Puzzle
+551,X360,Action,THQ,83.0,8,M,Action
+552,X360,Racing,Electronic Arts,76.0,5.4,E10+,Sports
+553,X360,Action,Activision,74.0,7,M,Action
+554,PS2,Simulation,Ubisoft,78.0,8.4,T,Strategy
+555,X360,Action,Electronic Arts,65.0,6.9,M,Action
+556,X360,Misc,Activision,76.0,5,E10+,Puzzle
+557,PS2,Sports,Electronic Arts,83.0,8.3,E,Sports
+558,XB,Sports,Electronic Arts,82.0,8.2,E,Sports
+559,PS3,Sports,Electronic Arts,81.0,7.7,E,Sports
+560,X360,Action,Ubisoft,85.0,8.1,M,Action
+561,X360,Fighting,Electronic Arts,86.0,7.4,M,Sports
+562,PS3,Shooter,Activision,72.0,6.3,T,Action
+563,X360,Platform,Ubisoft,87.0,8.2,E10+,Adventure
+564,PS2,Fighting,Electronic Arts,53.0,6.3,T,Sports
+565,X360,Sports,THQ,70.0,6.5,E,Sports
+566,PS2,Shooter,Sony Computer Entertainment,65.0,6.9,M,Action
+567,PS2,Platform,THQ,67.0,8.4,E,Adventure
+568,PS3,Action,Sony Computer Entertainment,55.0,5.8,T,Action
+569,PS3,Misc,Activision,86.0,7.8,T,Puzzle
+570,PS2,Action,Activision,69.0,6.5,E,Action
+571,XB,Sports,Activision,83.0,7.8,T,Sports
+572,PS2,Sports,Electronic Arts,76.0,9,E,Sports
+573,PS3,Action,Electronic Arts,54.0,7.1,T,Action
+574,PS3,Misc,Activision,76.0,5.7,E10+,Puzzle
+575,PS3,Action,Electronic Arts,67.0,7.2,M,Action
+576,PC,Action,Ubisoft,80.0,7.4,M,Action
+577,PS3,Action,Activision,79.0,6.8,M,Action
+578,PS3,Shooter,THQ,85.0,8.1,M,Action
+579,PC,Action,Electronic Arts,86.0,6.8,M,Action
+580,PS3,Sports,Sony Computer Entertainment,87.0,7.8,E,Sports
+581,PS3,Role-Playing,Activision,74.0,7.3,T,Strategy
+582,PC,Role-Playing,Electronic Arts,85.0,5.9,M,Strategy
+583,PS3,Sports,Electronic Arts,79.0,6.6,E,Sports
+584,X360,Sports,Electronic Arts,88.0,7.7,E10+,Sports
+585,X360,Sports,Electronic Arts,79.0,6.9,E,Sports
+586,XB,Strategy,THQ,84.0,8.7,M,Strategy
+587,PS2,Action,Activision,74.0,7.9,T,Action
+588,PS2,Sports,Electronic Arts,68.0,6.6,E,Sports
+589,XB,Shooter,Electronic Arts,73.0,8.9,M,Action
+590,PS2,Sports,Electronic Arts,79.0,6,E,Sports
+591,PS3,Sports,Sony Computer Entertainment,90.0,8.1,E,Sports
+592,PS3,Sports,Sony Computer Entertainment,91.0,8.3,E,Sports
+593,X360,Racing,THQ,75.0,6.6,E,Sports
+594,PS3,Racing,Activision,81.0,8.2,E10+,Sports
+595,PC,Shooter,Electronic Arts,87.0,8.3,M,Action
+596,XB,Action,Electronic Arts,79.0,8.1,T,Action
+597,XB,Sports,Electronic Arts,92.0,8.3,E,Sports
+598,X360,Sports,Electronic Arts,86.0,8.4,T,Sports
+599,PC,Shooter,Electronic Arts,91.0,8,M,Action
+600,PS2,Action,THQ,49.0,6.2,E,Action
+601,X360,Sports,Electronic Arts,77.0,7.4,E,Sports
+602,X360,Sports,Electronic Arts,83.0,7.7,E,Sports
+603,XB,Shooter,Activision,77.0,7.9,M,Action
+604,X360,Sports,Electronic Arts,82.0,6.4,E,Sports
+605,X360,Sports,Electronic Arts,81.0,7.8,E,Sports
+606,XB,Action,Activision,58.0,5.9,T,Action
+607,PS2,Shooter,Sony Computer Entertainment,73.0,8.3,T,Action
+608,X360,Sports,Electronic Arts,86.0,7,E10+,Sports
+609,PS2,Racing,Electronic Arts,66.0,6.6,E,Sports
+610,PS3,Sports,Sony Computer Entertainment,85.0,8.7,E,Sports
+611,X360,Racing,Ubisoft,80.0,7.6,T,Sports
+612,PS3,Shooter,Activision,65.0,7.4,T,Action
+613,X360,Sports,Ubisoft,40.0,4.4,T,Sports
+614,PS3,Action,Ubisoft,75.0,7.6,T,Action
+615,PC,Simulation,Electronic Arts,77.0,6.1,T,Strategy
+616,XB,Sports,Electronic Arts,89.0,8.8,E,Sports
+617,X360,Racing,THQ,70.0,7.1,E,Sports
+618,XB,Sports,Electronic Arts,89.0,8,E,Sports
+619,PS3,Platform,Sony Computer Entertainment,85.0,8.8,E10+,Adventure
+620,PS2,Action,Ubisoft,85.0,8.5,M,Action
+621,XB,Sports,Electronic Arts,80.0,7.5,E,Sports
+622,XB,Fighting,Electronic Arts,85.0,8.7,T,Sports
+623,XB,Shooter,Activision,84.0,8.8,M,Action
+624,PS3,Platform,Activision,60.0,7,T,Adventure
+625,PC,Role-Playing,Electronic Arts,89.0,8.6,M,Strategy
+626,XB,Shooter,Activision,78.0,8.9,T,Action
+627,XB,Sports,Electronic Arts,81.0,8.8,E,Sports
+628,PS3,Simulation,Ubisoft,67.0,6.9,T,Strategy
+629,PS2,Sports,Activision,65.0,6.6,T,Sports
+630,PS2,Sports,Sony Computer Entertainment,61.0,7.9,E,Sports
+631,PS2,Sports,Electronic Arts,74.0,8,E,Sports
+632,X360,Sports,Electronic Arts,88.0,8.4,E10+,Sports
+633,X360,Sports,Electronic Arts,83.0,6.6,E10+,Sports
+634,PS3,Strategy,Ubisoft,76.0,6.6,T,Strategy
+635,XB,Shooter,Ubisoft,88.0,8,M,Action
+636,PS2,Action,Activision,73.0,8.6,E10+,Action
+637,PS3,Sports,Ubisoft,63.0,6.3,T,Sports
+638,PS2,Racing,Ubisoft,47.0,6,T,Sports
+639,PS3,Sports,Electronic Arts,82.0,7.2,E,Sports
+640,X360,Sports,Electronic Arts,84.0,7.8,E,Sports
+641,PS2,Action,Electronic Arts,68.0,6.7,E10+,Action
+642,X360,Sports,Electronic Arts,80.0,6.9,E,Sports
+643,PC,Action,Ubisoft,84.0,7.7,M,Action
+644,PS2,Shooter,Electronic Arts,60.0,7,T,Action
+645,XB,Shooter,Electronic Arts,83.0,7.4,T,Action
+646,PS2,Platform,Activision,58.0,7.2,T,Adventure
+647,XB,Sports,Electronic Arts,79.0,6.4,E,Sports
+648,X360,Racing,THQ,75.0,7.3,T,Sports
+649,PS3,Sports,Electronic Arts,84.0,6.8,E10+,Sports
+650,PS2,Platform,Activision,63.0,5.7,E,Adventure
+651,PS2,Role-Playing,Activision,82.0,7.3,T,Strategy
+652,PC,Action,Electronic Arts,82.0,4.5,M,Action
+653,XB,Sports,Activision,78.0,8.8,T,Sports
+654,PS3,Sports,Electronic Arts,73.0,6.8,E,Sports
+655,XB,Sports,Electronic Arts,88.0,7.7,E,Sports
+656,X360,Action,Electronic Arts,55.0,7,T,Action
+657,PC,Shooter,Ubisoft,80.0,6.7,M,Action
+658,PS2,Racing,Electronic Arts,78.0,7.7,E,Sports
+659,PS3,Role-Playing,Sony Computer Entertainment,60.0,7.1,T,Strategy
+660,X360,Racing,THQ,68.0,7.6,T,Sports
+661,PS3,Shooter,Activision,71.0,7.4,M,Action
+662,X360,Shooter,Activision,32.0,4,M,Action
+663,PC,Simulation,Electronic Arts,70.0,3.6,T,Strategy
+664,PS2,Platform,Sony Computer Entertainment,82.0,8.4,E,Adventure
+665,PS2,Sports,Electronic Arts,82.0,5.8,E,Sports
+666,PC,Shooter,Electronic Arts,76.0,6.5,M,Action
+667,PS3,Sports,Activision,76.0,7.2,T,Sports
+668,XB,Sports,Activision,77.0,7.7,T,Sports
+669,PS2,Role-Playing,Ubisoft,78.0,8.4,T,Strategy
+670,XB,Sports,Electronic Arts,89.0,8.2,E,Sports
+671,PS2,Platform,THQ,71.0,8,E,Adventure
+672,PS3,Misc,Ubisoft,75.0,6,E10+,Puzzle
+673,PS3,Misc,Activision,86.0,8,T,Puzzle
+674,X360,Action,Ubisoft,74.0,7.8,T,Action
+675,X360,Sports,Electronic Arts,80.0,6.1,E,Sports
+676,X360,Platform,THQ,50.0,6.3,E,Adventure
+677,PS3,Sports,Electronic Arts,73.0,4.3,E,Sports
+678,XB,Shooter,Electronic Arts,90.0,8.6,M,Action
+679,X360,Sports,Activision,46.0,3,E10+,Sports
+680,XB,Fighting,Electronic Arts,88.0,8.8,T,Sports
+681,PS2,Platform,Sony Computer Entertainment,61.0,6.7,E10+,Adventure
+682,X360,Shooter,Ubisoft,77.0,7.6,M,Action
+683,X360,Fighting,Ubisoft,32.0,4.6,T,Sports
+684,PS2,Racing,Ubisoft,63.0,8.6,E,Sports
+685,PS2,Action,THQ,52.0,7.5,M,Action
+686,PS2,Racing,THQ,62.0,8.1,E,Sports
+687,X360,Misc,Electronic Arts,56.0,5.8,E,Puzzle
+688,PS3,Sports,Activision,44.0,2.1,E10+,Sports
+689,PC,Action,Electronic Arts,86.0,8,M,Action
+690,PS3,Sports,Electronic Arts,88.0,7.1,E10+,Sports
+691,PS2,Sports,Electronic Arts,73.0,5.6,E,Sports
+692,XB,Sports,Electronic Arts,90.0,8.5,E,Sports
+693,PC,Action,Ubisoft,88.0,8.2,M,Action
+694,X360,Racing,Activision,82.0,8.3,E10+,Sports
+695,X360,Action,Ubisoft,80.0,7.8,T,Action
+696,PS3,Fighting,Sony Computer Entertainment,48.0,7.5,T,Sports
+697,X360,Action,Ubisoft,55.0,6.4,T,Action
+698,PS2,Role-Playing,Electronic Arts,73.0,8.2,T,Strategy
+699,PS3,Sports,Electronic Arts,81.0,7.3,E,Sports
+700,PS3,Sports,Sony Computer Entertainment,90.0,7.8,E,Sports
+701,X360,Action,Ubisoft,73.0,7.3,T,Action
+702,PS3,Adventure,Electronic Arts,70.0,7.9,M,Adventure
+703,PS3,Sports,Electronic Arts,86.0,7.5,E10+,Sports
+704,XB,Action,Ubisoft,85.0,8.4,M,Action
+705,PS3,Platform,Ubisoft,91.0,8.7,E10+,Adventure
+706,PS2,Sports,Electronic Arts,78.0,8.5,E10+,Sports
+707,XB,Shooter,Ubisoft,85.0,5.7,M,Action
+708,PC,Simulation,Electronic Arts,81.0,8,T,Strategy
+709,PS3,Sports,Electronic Arts,88.0,7.9,E10+,Sports
+710,PS2,Sports,Electronic Arts,77.0,8.1,E,Sports
+711,XB,Racing,Activision,74.0,5.2,T,Sports
+712,XB,Platform,THQ,70.0,8.9,E,Adventure
+713,X360,Platform,Activision,63.0,7,T,Adventure
+714,PS2,Shooter,Ubisoft,73.0,8.6,M,Action
+715,PC,Shooter,Electronic Arts,86.0,6.2,M,Action
+716,PS2,Sports,Electronic Arts,66.0,8.6,E10+,Sports
+717,XB,Simulation,Electronic Arts,81.0,8.9,T,Strategy
+718,PS2,Sports,Electronic Arts,63.0,8.6,E,Sports
+719,X360,Shooter,THQ,76.0,7.8,M,Action
+720,PS2,Sports,Activision,55.0,8.4,T,Sports
+721,XB,Shooter,Electronic Arts,80.0,8.2,T,Action
+722,PS3,Action,Ubisoft,74.0,8.1,T,Action
+723,XB,Fighting,THQ,68.0,7.3,T,Sports
+724,PS2,Action,Electronic Arts,64.0,7.3,T,Action
+725,X360,Sports,Activision,72.0,5.4,T,Sports
+726,X360,Shooter,Activision,72.0,7.5,M,Action
+727,X360,Action,Ubisoft,58.0,6.3,E10+,Action
+728,X360,Shooter,THQ,75.0,7.8,T,Action
+729,PS2,Racing,THQ,76.0,8.3,E,Sports
+730,XB,Sports,Electronic Arts,88.0,6.9,E,Sports
+731,PS3,Action,Sony Computer Entertainment,84.0,8.4,M,Action
+732,XB,Fighting,THQ,68.0,6.6,T,Sports
+733,PS2,Action,Sony Computer Entertainment,67.0,7.8,M,Action
+734,PS2,Adventure,Ubisoft,68.0,6.7,T,Adventure
+735,XB,Sports,Activision,93.0,8.4,T,Sports
+736,PC,Action,Ubisoft,70.0,3,M,Action
+737,X360,Racing,THQ,63.0,7.2,E,Sports
+738,XB,Platform,Activision,72.0,8.4,E,Adventure
+739,PC,Action,Ubisoft,86.0,6.9,M,Action
+740,PS2,Racing,Sony Computer Entertainment,76.0,7.7,T,Sports
+741,XB,Platform,THQ,74.0,8.5,E,Adventure
+742,PS3,Sports,Electronic Arts,80.0,6,E10+,Sports
+743,PS3,Fighting,THQ,70.0,6.5,T,Sports
+744,X360,Sports,Electronic Arts,80.0,7.8,E,Sports
+745,PS3,Sports,Electronic Arts,75.0,5.7,E,Sports
+746,PS3,Sports,Electronic Arts,81.0,7.5,E,Sports
+747,X360,Shooter,THQ,77.0,7.9,M,Action
+748,XB,Shooter,Activision,74.0,9.2,T,Action
+749,PS2,Platform,Activision,58.0,8.6,E10+,Adventure
+750,X360,Sports,Electronic Arts,81.0,5.9,E10+,Sports
+751,PS2,Fighting,Sony Computer Entertainment,80.0,8.9,T,Sports
+752,PS2,Sports,Electronic Arts,78.0,9.1,E,Sports
+753,PS2,Sports,Electronic Arts,78.0,8.3,E,Sports
+754,PC,Shooter,Activision,91.0,6.8,T,Action
+755,XB,Action,Ubisoft,82.0,8.5,T,Action
+756,XB,Racing,Electronic Arts,89.0,8.4,E10+,Sports
+757,XB,Shooter,Electronic Arts,72.0,7,T,Action
+758,PS2,Platform,Electronic Arts,71.0,8.2,E,Adventure
+759,PS2,Sports,Sony Computer Entertainment,63.0,6.3,E,Sports
+760,PC,Strategy,Activision,88.0,8.3,T,Strategy
+761,PS2,Racing,THQ,68.0,7.7,T,Sports
+762,PS3,Shooter,Electronic Arts,83.0,7.7,M,Action
+763,PS2,Shooter,Activision,66.0,8,M,Action
+764,PS3,Misc,Ubisoft,66.0,8.4,E10+,Puzzle
+765,PS3,Racing,THQ,76.0,6.2,T,Sports
+766,X360,Sports,Electronic Arts,79.0,7.8,E,Sports
+767,X360,Sports,Electronic Arts,73.0,5.3,E,Sports
+768,PS2,Puzzle,Electronic Arts,86.0,8.9,E,Puzzle
+769,XB,Sports,Electronic Arts,90.0,8.2,E,Sports
+770,PS3,Sports,Electronic Arts,76.0,4.2,E,Sports
+771,PS3,Sports,Electronic Arts,75.0,7.8,E,Sports
+772,PS3,Misc,Sony Computer Entertainment,65.0,3.9,T,Puzzle
+773,PS2,Shooter,Electronic Arts,81.0,8.4,T,Action
+774,XB,Shooter,Activision,79.0,7.8,M,Action
+775,PS2,Action,THQ,68.0,8.2,M,Action
+776,PS2,Sports,Electronic Arts,80.0,7.9,E,Sports
+777,PC,Simulation,Electronic Arts,78.0,8.6,T,Strategy
+778,PS3,Action,Activision,76.0,7.3,E10+,Action
+779,PS2,Misc,Sony Computer Entertainment,47.0,6.3,E,Puzzle
+780,PS3,Action,Sony Computer Entertainment,53.0,6.4,T,Action
+781,PS2,Role-Playing,THQ,74.0,7.8,T,Strategy
+782,PS3,Shooter,Activision,34.0,3.6,M,Action
+783,PS3,Action,THQ,55.0,4.8,E,Action
+784,XB,Sports,Electronic Arts,85.0,8.2,E,Sports
+785,PC,Role-Playing,Electronic Arts,91.0,8.6,M,Strategy
+786,PS2,Sports,Electronic Arts,76.0,4.6,E10+,Sports
+787,X360,Sports,Electronic Arts,77.0,5.6,E,Sports
+788,X360,Action,Electronic Arts,73.0,8.2,M,Action
+789,X360,Sports,Electronic Arts,88.0,8.4,E10+,Sports
+790,X360,Fighting,THQ,81.0,7.8,T,Sports
+791,PS3,Action,Ubisoft,54.0,6.9,T,Action
+792,PS2,Misc,Activision,75.0,7.7,E,Puzzle
+793,PS3,Strategy,Ubisoft,76.0,7.3,T,Strategy
+794,X360,Shooter,Activision,72.0,6,T,Action
+795,PS2,Simulation,Activision,81.0,8.3,T,Strategy
+796,X360,Racing,Electronic Arts,89.0,8.1,E10+,Sports
+797,PS2,Action,THQ,65.0,7.3,E,Action
+798,X360,Sports,Electronic Arts,80.0,8.2,E,Sports
+799,PS2,Racing,THQ,80.0,8.7,E,Sports
+800,PS2,Action,Activision,67.0,9,E10+,Action
+801,PS2,Action,Activision,64.0,7.8,T,Action
+802,X360,Adventure,Electronic Arts,70.0,8.1,M,Adventure
+803,X360,Sports,Activision,81.0,7.6,T,Sports
+804,XB,Shooter,Electronic Arts,61.0,7.2,T,Action
+805,PC,Shooter,Electronic Arts,72.0,6.4,M,Action
+806,PS2,Action,Activision,56.0,6.1,E10+,Action
+807,PC,Action,Ubisoft,85.0,5.8,M,Action
+808,XB,Sports,Electronic Arts,78.0,6.5,E,Sports
+809,PS3,Racing,Sony Computer Entertainment,77.0,7.7,T,Sports
+810,X360,Sports,Electronic Arts,80.0,7.9,E,Sports
+811,PS3,Action,Electronic Arts,72.0,8.1,M,Action
+812,PS2,Strategy,Electronic Arts,82.0,7.9,E,Strategy
+813,XB,Sports,Electronic Arts,81.0,5.1,E,Sports
+814,X360,Sports,Electronic Arts,72.0,6.6,E,Sports
+815,PS2,Puzzle,Sony Computer Entertainment,72.0,6.3,E,Puzzle
+816,PS2,Fighting,Activision,61.0,8.7,T,Sports
+817,X360,Shooter,Activision,62.0,7.1,T,Action
+818,PS2,Action,Sony Computer Entertainment,90.0,8.8,T,Action
+819,PS2,Racing,THQ,54.0,7.1,E,Sports
+820,XB,Racing,Electronic Arts,74.0,7.4,E10+,Sports
+821,PC,Strategy,THQ,85.0,8.1,M,Strategy
+822,PS2,Misc,Activision,46.0,8.2,E10+,Puzzle
+823,PS2,Sports,Activision,76.0,9.1,T,Sports
+824,PC,Simulation,Electronic Arts,74.0,7.3,T,Strategy
+825,PS2,Strategy,THQ,71.0,8.3,T,Strategy
+826,PS2,Shooter,Ubisoft,71.0,7.9,M,Action
+827,PS3,Racing,THQ,61.0,6.7,E,Sports
+828,X360,Sports,Electronic Arts,59.0,4.9,E,Sports
+829,PS2,Shooter,Ubisoft,82.0,7.6,M,Action
+830,PS2,Action,Sony Computer Entertainment,80.0,7.9,M,Action
+831,PS2,Platform,Sony Computer Entertainment,72.0,4.6,E10+,Adventure
+832,PS3,Racing,THQ,67.0,6.1,E,Sports
+833,PS2,Sports,Electronic Arts,66.0,6.9,E,Sports
+834,PS2,Sports,Electronic Arts,75.0,8.3,E,Sports
+835,XB,Shooter,Activision,76.0,8.7,T,Action
+836,X360,Shooter,Activision,69.0,7.3,T,Action
+837,PS3,Shooter,THQ,71.0,7.3,M,Action
+838,XB,Fighting,THQ,56.0,6.9,T,Sports
+839,X360,Sports,Electronic Arts,80.0,7.7,E,Sports
+840,X360,Action,Electronic Arts,38.0,5,T,Action
+841,PS2,Racing,Electronic Arts,73.0,7.7,T,Sports
+842,PS3,Action,Activision,61.0,7.2,M,Action
+843,PC,Action,Ubisoft,77.0,4.7,M,Action
+844,PS3,Shooter,THQ,70.0,7.4,M,Action
+845,PS2,Action,Activision,64.0,8.5,T,Action
+846,XB,Role-Playing,Activision,84.0,8.7,T,Strategy
+847,PS2,Action,Electronic Arts,56.0,7.4,M,Action
+848,XB,Sports,Electronic Arts,88.0,8.5,E,Sports
+849,PS2,Shooter,Electronic Arts,80.0,8.5,T,Action
+850,PS3,Sports,Activision,73.0,6.6,T,Sports
+851,X360,Action,Activision,79.0,8.3,T,Action
+852,XB,Racing,THQ,81.0,9.3,E,Sports
+853,X360,Shooter,Ubisoft,84.0,7.7,E10+,Action
+854,PS3,Action,Activision,74.0,7.5,T,Action
+855,XB,Simulation,Activision,78.0,5.2,T,Strategy
+856,PS2,Action,Sony Computer Entertainment,73.0,8.6,M,Action
+857,XB,Sports,Electronic Arts,88.0,8.5,E,Sports
+858,XB,Sports,Electronic Arts,88.0,8.8,E,Sports
+859,PS2,Action,Electronic Arts,51.0,3.6,E,Action
+860,X360,Action,Activision,62.0,7.4,M,Action
+861,PS2,Sports,Sony Computer Entertainment,71.0,7.8,E,Sports
+862,PS3,Misc,Ubisoft,77.0,7.1,E10+,Puzzle
+863,X360,Platform,Ubisoft,90.0,8.2,E10+,Adventure
+864,PS3,Action,Electronic Arts,68.0,4.4,M,Action
+865,X360,Sports,Electronic Arts,74.0,4.4,E,Sports
+866,XB,Simulation,Electronic Arts,84.0,6.9,T,Strategy
+867,PS2,Adventure,Sony Computer Entertainment,64.0,3.1,T,Adventure
+868,PS2,Racing,THQ,55.0,7.7,E,Sports
+869,X360,Misc,Activision,71.0,5.9,T,Puzzle
+870,PS2,Sports,Sony Computer Entertainment,84.0,7.3,E,Sports
+871,XB,Shooter,Electronic Arts,77.0,8,M,Action
+872,X360,Simulation,Ubisoft,66.0,7.9,T,Strategy
+873,PS2,Sports,Sony Computer Entertainment,65.0,8.7,E,Sports
+874,XB,Shooter,Ubisoft,74.0,6.6,M,Action
+875,PS3,Action,Ubisoft,70.0,6.8,T,Action
+876,PS2,Action,Activision,52.0,7.5,T,Action
+877,PC,Shooter,Ubisoft,79.0,5.8,M,Action
+878,PS3,Racing,THQ,63.0,4.8,E,Sports
+879,PC,Shooter,Activision,78.0,4.5,M,Action
+880,PS2,Platform,Ubisoft,59.0,7.1,E,Adventure
+881,PS3,Fighting,THQ,75.0,6.4,T,Sports
+882,X360,Shooter,Electronic Arts,77.0,7.3,T,Action
+883,PS2,Action,Electronic Arts,69.0,7.6,T,Action
+884,X360,Simulation,THQ,66.0,7.5,E,Strategy
+885,PS2,Action,Activision,50.0,5,T,Action
+886,X360,Action,Activision,68.0,8.6,T,Action
+887,X360,Action,Ubisoft,51.0,4.7,M,Action
+888,PS3,Platform,THQ,51.0,5,E,Adventure
+889,PC,Sports,Electronic Arts,87.0,4.6,E,Sports
+890,PS2,Sports,Sony Computer Entertainment,81.0,9,E,Sports
+891,XB,Racing,THQ,80.0,8.3,E,Sports
+892,PC,Action,Electronic Arts,86.0,6.6,E,Action
+893,XB,Sports,Electronic Arts,76.0,7.5,E,Sports
+894,PS2,Platform,Sony Computer Entertainment,73.0,8.3,T,Adventure
+895,XB,Action,Activision,77.0,7.4,T,Action
+896,PS2,Racing,THQ,66.0,6.7,T,Sports
+897,X360,Fighting,THQ,71.0,6.3,T,Sports
+898,PC,Role-Playing,Electronic Arts,94.0,8.8,M,Strategy
+899,PS3,Action,Electronic Arts,38.0,2.8,T,Action
+900,PS3,Sports,Electronic Arts,71.0,5.7,E,Sports
+901,X360,Sports,Electronic Arts,75.0,7,E,Sports
+902,PS3,Action,Activision,77.0,8.2,T,Action
+903,XB,Sports,Electronic Arts,92.0,8.7,E,Sports
+904,PS2,Fighting,Ubisoft,62.0,8.4,M,Sports
+905,PS3,Misc,Electronic Arts,64.0,6.1,E,Puzzle
+906,PS2,Misc,Ubisoft,79.0,7.3,E,Puzzle
+907,XB,Shooter,Ubisoft,84.0,7.2,T,Action
+908,X360,Sports,Electronic Arts,68.0,5.4,E,Sports
+909,X360,Shooter,THQ,71.0,7,M,Action
+910,PS3,Role-Playing,Activision,78.0,7.6,T,Strategy
+911,PS2,Sports,Sony Computer Entertainment,51.0,4.6,E,Sports
+912,PS3,Sports,Electronic Arts,77.0,7.9,E,Sports
+913,PS2,Misc,THQ,60.0,5.1,E,Puzzle
+914,PC,Shooter,Electronic Arts,88.0,7.6,M,Action
+915,PS2,Shooter,Electronic Arts,49.0,7.4,T,Action
+916,PC,Action,THQ,84.0,8.1,M,Action
+917,PS2,Racing,THQ,53.0,8.2,E,Sports
+918,PC,Simulation,Ubisoft,82.0,8.8,T,Strategy
+919,PS2,Action,Activision,56.0,5.8,E,Action
+920,PS2,Misc,Sony Computer Entertainment,78.0,7,E10+,Puzzle
+921,PS3,Misc,Ubisoft,77.0,7.1,E10+,Puzzle
+922,PC,Racing,Electronic Arts,86.0,6.7,E10+,Sports
+923,X360,Misc,Electronic Arts,66.0,6.4,E,Puzzle
+924,PS2,Action,Activision,62.0,8.3,E10+,Action
+925,PS3,Fighting,Electronic Arts,77.0,6.9,T,Sports
+926,X360,Shooter,Activision,75.0,6.7,M,Action
+927,PS3,Sports,Electronic Arts,74.0,3.8,E,Sports
+928,PS3,Sports,Electronic Arts,85.0,8.2,T,Sports
+929,PS2,Sports,Electronic Arts,59.0,7.7,E,Sports
+930,PS2,Simulation,Electronic Arts,71.0,8,T,Strategy
+931,PC,Action,Electronic Arts,69.0,5.8,T,Action
+932,X360,Action,Ubisoft,68.0,6.3,T,Action
+933,PS2,Action,THQ,60.0,7.1,E10+,Action
+934,PS2,Role-Playing,Sony Computer Entertainment,70.0,8.5,T,Strategy
+935,X360,Action,Activision,76.0,7.6,T,Action
+936,PS2,Role-Playing,Sony Computer Entertainment,72.0,8.2,T,Strategy
+937,XB,Action,Electronic Arts,77.0,7.2,E,Action
+938,X360,Sports,Electronic Arts,77.0,6.2,E,Sports
+939,PS2,Action,Ubisoft,63.0,8.3,T,Action
+940,PS3,Misc,Activision,73.0,7.2,T,Puzzle
+941,PS2,Racing,THQ,56.0,5.3,T,Sports
+942,X360,Fighting,Electronic Arts,79.0,7,T,Sports
+943,PS2,Shooter,Ubisoft,70.0,6.9,M,Action
+944,PS2,Role-Playing,Ubisoft,59.0,7.8,T,Strategy
+945,PS3,Shooter,Activision,60.0,6.4,T,Action
+946,X360,Action,Electronic Arts,69.0,6.3,M,Action
+947,PS3,Action,Activision,57.0,5.6,T,Action
+948,X360,Fighting,THQ,75.0,7.2,T,Sports
+949,PS2,Racing,Sony Computer Entertainment,72.0,8.3,T,Sports
+950,PS3,Sports,Ubisoft,45.0,4.3,E,Sports
+951,PC,Strategy,THQ,80.0,2.1,M,Strategy
+952,XB,Simulation,Electronic Arts,70.0,6.5,T,Strategy
+953,PS3,Misc,Electronic Arts,54.0,6.7,E,Puzzle
+954,PS3,Action,THQ,69.0,7.2,M,Action
+955,XB,Sports,Electronic Arts,75.0,8.6,E,Sports
+956,PS3,Shooter,Sony Computer Entertainment,60.0,6.2,T,Action
+957,PS3,Misc,Sony Computer Entertainment,75.0,8.2,T,Puzzle
+958,XB,Shooter,Ubisoft,66.0,6,T,Action
+959,PS3,Sports,Electronic Arts,88.0,7.7,E10+,Sports
+960,PS3,Sports,Electronic Arts,75.0,7.8,E,Sports
+961,X360,Action,Electronic Arts,44.0,5.4,T,Action
+962,PS2,Platform,Sony Computer Entertainment,91.0,9.1,E,Adventure
+963,PS2,Sports,Activision,77.0,8.4,E,Sports
+964,PS2,Sports,Sony Computer Entertainment,79.0,7.5,E,Sports
+965,XB,Fighting,Electronic Arts,83.0,9,T,Sports
+966,X360,Action,Ubisoft,78.0,8.6,T,Action
+967,PS3,Sports,Activision,60.0,5.4,T,Sports
+968,PC,Action,Electronic Arts,55.0,5.4,M,Action
+969,PS3,Action,Electronic Arts,66.0,7.1,E10+,Action
+970,PC,Shooter,Electronic Arts,87.0,8.3,M,Action
+971,PS2,Racing,Sony Computer Entertainment,77.0,8.3,T,Sports
+972,X360,Misc,Ubisoft,66.0,5.8,T,Puzzle
+973,XB,Sports,Electronic Arts,89.0,8.9,E,Sports
+974,PS2,Shooter,Ubisoft,74.0,8.4,M,Action
+975,X360,Sports,Activision,75.0,7.2,T,Sports
+976,PS3,Action,Electronic Arts,43.0,5.7,T,Action
+977,PS2,Simulation,Sony Computer Entertainment,79.0,8.4,E,Strategy
+978,PC,Role-Playing,Activision,88.0,7.5,T,Strategy
+979,PS3,Sports,Electronic Arts,63.0,6.9,E,Sports
+980,PS2,Fighting,Ubisoft,68.0,8,T,Sports
+981,PS2,Sports,Activision,78.0,8.3,E,Sports
+982,PS3,Role-Playing,Sony Computer Entertainment,75.0,8.2,T,Strategy
+983,X360,Sports,Electronic Arts,63.0,6.9,E,Sports
+984,PS2,Adventure,Sony Computer Entertainment,52.0,7.2,E,Adventure
+985,PS2,Misc,Activision,87.0,6.4,T,Puzzle
+986,PS3,Sports,Sony Computer Entertainment,77.0,7.5,E,Sports
+987,X360,Action,Electronic Arts,64.0,6.8,E10+,Action
+988,PS2,Sports,Electronic Arts,59.0,7.9,E,Sports
+989,PC,Strategy,Ubisoft,79.0,5.2,E10+,Strategy
+990,XB,Shooter,Ubisoft,85.0,8.6,M,Action
+991,X360,Sports,Electronic Arts,71.0,7.4,E,Sports
+992,PS2,Sports,Sony Computer Entertainment,52.0,6.5,E,Sports
+993,PS2,Action,Activision,49.0,6.1,M,Action
+994,PS2,Action,Sony Computer Entertainment,59.0,7.8,E,Action
+995,PS2,Role-Playing,Activision,54.0,5.8,T,Strategy
+996,PS3,Action,Activision,66.0,4.5,E10+,Action
+997,X360,Racing,Activision,62.0,4.1,E,Sports
+998,PC,Role-Playing,Electronic Arts,81.0,6.6,M,Strategy
+999,PS2,Adventure,Sony Computer Entertainment,61.0,8.5,E10+,Adventure
+1000,PS2,Adventure,Sony Computer Entertainment,62.0,8.2,M,Adventure
+1001,X360,Fighting,Ubisoft,61.0,7.5,E10+,Sports
+1002,PS2,Platform,Ubisoft,90.0,8.2,E,Adventure
+1003,PS2,Fighting,THQ,73.0,8.6,M,Sports
+1004,PS2,Role-Playing,Ubisoft,62.0,5.3,T,Strategy
+1005,PS2,Strategy,THQ,74.0,8,M,Strategy
+1006,PS2,Simulation,Electronic Arts,68.0,8,T,Strategy
+1007,PS3,Action,Sony Computer Entertainment,70.0,7.3,E10+,Action
+1008,X360,Action,Electronic Arts,68.0,6.8,E10+,Action
+1009,PS2,Role-Playing,Ubisoft,71.0,8.6,T,Strategy
+1010,X360,Action,Activision,60.0,6.3,E10+,Action
+1011,X360,Misc,Activision,57.0,5.8,T,Puzzle
+1012,PC,Simulation,Electronic Arts,90.0,8.8,T,Strategy
+1013,X360,Action,THQ,61.0,6.8,E10+,Action
+1014,X360,Sports,Electronic Arts,64.0,5.6,E,Sports
+1015,PC,Racing,Electronic Arts,82.0,8.5,T,Sports
+1016,XB,Sports,Electronic Arts,76.0,6,E,Sports
+1017,PS3,Action,Sony Computer Entertainment,77.0,7.8,T,Action
+1018,XB,Role-Playing,Ubisoft,65.0,7.4,T,Strategy
+1019,PS3,Shooter,Ubisoft,45.0,5.5,M,Action
+1020,PS3,Strategy,Activision,49.0,3.6,E,Strategy
+1021,PC,Simulation,Electronic Arts,84.0,8.7,E,Strategy
+1022,PS2,Platform,Ubisoft,76.0,8.6,E,Adventure
+1023,X360,Racing,Electronic Arts,59.0,5.2,E,Sports
+1024,PS2,Racing,Ubisoft,48.0,8.3,E,Sports
+1025,PC,Sports,Electronic Arts,82.0,4.2,E,Sports
+1026,XB,Sports,Activision,58.0,8,T,Sports
+1027,XB,Fighting,Electronic Arts,58.0,7.5,T,Sports
+1028,PS2,Action,Electronic Arts,56.0,7.6,E,Action
+1029,X360,Action,Activision,59.0,6.7,T,Action
+1030,PS2,Shooter,Sony Computer Entertainment,70.0,7.8,T,Action
+1031,PS3,Sports,Activision,56.0,6.7,E,Sports
+1032,XB,Sports,Electronic Arts,80.0,7.8,E,Sports
+1033,PS2,Sports,THQ,57.0,5.8,E,Sports
+1034,X360,Misc,Electronic Arts,66.0,6.6,E,Puzzle
+1035,PS3,Misc,Electronic Arts,66.0,7.1,E,Puzzle
+1036,PS3,Action,Sony Computer Entertainment,61.0,6.5,E10+,Action
+1037,PS2,Action,Activision,55.0,7.5,T,Action
+1038,X360,Strategy,Activision,59.0,5.6,E,Strategy
+1039,XB,Action,Activision,60.0,7.8,M,Action
+1040,PS2,Adventure,Ubisoft,57.0,7,E,Adventure
+1041,PS3,Shooter,Electronic Arts,58.0,6.7,M,Action
+1042,PS3,Misc,Activision,59.0,4.7,T,Puzzle
+1043,PS3,Action,Sony Computer Entertainment,78.0,8.1,M,Action
+1044,PS2,Sports,Sony Computer Entertainment,61.0,7.2,E,Sports
+1045,PS2,Action,Ubisoft,65.0,8.6,T,Action
+1046,X360,Sports,Electronic Arts,79.0,5.3,E10+,Sports
+1047,XB,Racing,Electronic Arts,79.0,5.9,E,Sports
+1048,PS2,Shooter,THQ,70.0,8.5,M,Action
+1049,XB,Sports,Electronic Arts,89.0,8.8,E,Sports
+1050,PS3,Racing,Activision,62.0,3.7,E,Sports
+1051,PS2,Action,Electronic Arts,61.0,8,E10+,Action
+1052,PS2,Racing,THQ,71.0,6.4,T,Sports
+1053,XB,Action,Activision,62.0,6.6,T,Action
+1054,PS3,Action,Electronic Arts,77.0,8.1,M,Action
+1055,PC,Strategy,Ubisoft,76.0,8.1,T,Strategy
+1056,XB,Sports,Electronic Arts,78.0,7.9,T,Sports
+1057,X360,Strategy,Ubisoft,78.0,7,T,Strategy
+1058,X360,Sports,Ubisoft,41.0,7.4,E,Sports
+1059,PS3,Sports,Sony Computer Entertainment,63.0,6.3,E,Sports
+1060,X360,Shooter,Ubisoft,47.0,5.7,M,Action
+1061,PS3,Action,Activision,40.0,6.4,M,Action
+1062,X360,Action,Electronic Arts,51.0,6.2,T,Action
+1063,PS3,Action,Ubisoft,59.0,5.7,E10+,Action
+1064,X360,Action,Activision,63.0,3.5,E,Action
+1065,PS3,Action,Activision,67.0,7.9,T,Action
+1066,XB,Adventure,Electronic Arts,88.0,9.1,T,Adventure
+1067,PS2,Adventure,Sony Computer Entertainment,78.0,9,M,Adventure
+1068,X360,Sports,Activision,53.0,6.6,E,Sports
+1069,PS3,Action,Sony Computer Entertainment,74.0,8.4,T,Action
+1070,X360,Shooter,Electronic Arts,54.0,6.2,M,Action
+1071,PS3,Action,Ubisoft,78.0,6.5,M,Action
+1072,X360,Action,Ubisoft,80.0,7.5,T,Action
+1073,PS2,Racing,Activision,77.0,8.1,E,Sports
+1074,PS2,Sports,Sony Computer Entertainment,58.0,7.8,E,Sports
+1075,PS2,Racing,Sony Computer Entertainment,73.0,6,E,Sports
+1076,PS2,Action,THQ,56.0,8.6,E10+,Action
+1077,X360,Racing,Electronic Arts,69.0,7.8,E,Sports
+1078,PS3,Racing,Electronic Arts,65.0,7.5,E,Sports
+1079,PC,Simulation,Ubisoft,62.0,3.5,T,Strategy
+1080,PS3,Action,Electronic Arts,86.0,6.9,E10+,Action
+1081,PS3,Racing,THQ,71.0,6.4,T,Sports
+1082,X360,Action,Electronic Arts,85.0,8.2,E10+,Action
+1083,PS2,Racing,Sony Computer Entertainment,83.0,8.5,E,Sports
+1084,XB,Sports,Electronic Arts,79.0,8.4,E10+,Sports
+1085,PC,Strategy,Ubisoft,72.0,5.9,E10+,Strategy
+1086,XB,Shooter,Ubisoft,74.0,8.3,M,Action
+1087,PS3,Action,THQ,65.0,6.5,E10+,Action
+1088,X360,Racing,THQ,78.0,7.3,E,Sports
+1089,X360,Racing,THQ,65.0,6.1,E,Sports
+1090,PC,Racing,Electronic Arts,76.0,3.3,E10+,Sports
+1091,XB,Simulation,Electronic Arts,75.0,7.1,T,Strategy
+1092,X360,Action,THQ,70.0,7.5,M,Action
+1093,X360,Action,Activision,57.0,6.8,T,Action
+1094,XB,Shooter,Ubisoft,70.0,7.4,T,Action
+1095,PS2,Adventure,Ubisoft,51.0,7.5,T,Adventure
+1096,PS3,Misc,Sony Computer Entertainment,56.0,4.9,E,Puzzle
+1097,X360,Action,Activision,39.0,5,M,Action
+1098,X360,Shooter,Ubisoft,78.0,6.2,M,Action
+1099,PS2,Misc,THQ,63.0,4.8,E,Puzzle
+1100,PS2,Shooter,Electronic Arts,84.0,9.1,M,Action
+1101,PC,Shooter,THQ,70.0,5.5,M,Action
+1102,X360,Action,Activision,60.0,5.2,E,Action
+1103,PC,Shooter,THQ,81.0,8.1,M,Action
+1104,X360,Action,Ubisoft,63.0,6.1,E10+,Action
+1105,PS2,Misc,Sony Computer Entertainment,46.0,3.9,E,Puzzle
+1106,PS3,Action,Activision,50.0,4.8,T,Action
+1107,PS3,Action,Electronic Arts,67.0,6.6,E10+,Action
+1108,XB,Sports,Electronic Arts,77.0,8.4,E,Sports
+1109,X360,Action,Electronic Arts,42.0,4.7,T,Action
+1110,X360,Action,Activision,47.0,5,T,Action
+1111,PS3,Sports,Ubisoft,46.0,7.5,E,Sports
+1112,PS2,Racing,Electronic Arts,56.0,8.2,E,Sports
+1113,PS3,Action,Activision,63.0,8.2,E,Action
+1114,XB,Racing,Electronic Arts,85.0,9.1,E,Sports
+1115,XB,Action,Electronic Arts,79.0,9.1,T,Action
+1116,XB,Action,Electronic Arts,68.0,5.8,E10+,Action
+1117,PS3,Action,Activision,58.0,6.8,E10+,Action
+1118,PS3,Racing,Electronic Arts,57.0,5,E,Sports
+1119,PS3,Sports,Electronic Arts,73.0,5.2,E,Sports
+1120,PS2,Sports,Sony Computer Entertainment,70.0,5.8,T,Sports
+1121,PS3,Misc,Sony Computer Entertainment,66.0,5.2,E,Puzzle
+1122,PC,Shooter,Ubisoft,79.0,6.9,M,Action
+1123,PS2,Action,Sony Computer Entertainment,74.0,8.3,M,Action
+1124,XB,Shooter,Electronic Arts,82.0,8.2,T,Action
+1125,XB,Shooter,Activision,61.0,6.5,M,Action
+1126,PS2,Adventure,THQ,39.0,4.3,E,Adventure
+1127,PS2,Sports,Sony Computer Entertainment,62.0,5.9,E,Sports
+1128,PS3,Action,Activision,58.0,7.2,T,Action
+1129,PC,Simulation,Electronic Arts,72.0,7.3,T,Strategy
+1130,PS3,Shooter,Ubisoft,81.0,7.8,E10+,Action
+1131,PS2,Misc,Activision,69.0,8.3,T,Puzzle
+1132,X360,Sports,Electronic Arts,70.0,5.6,E,Sports
+1133,PS2,Sports,Electronic Arts,61.0,6.8,E,Sports
+1134,X360,Simulation,Ubisoft,49.0,6,T,Strategy
+1135,PS2,Racing,Ubisoft,52.0,6.8,E,Sports
+1136,PS2,Role-Playing,Ubisoft,76.0,8.6,T,Strategy
+1137,PS2,Strategy,Ubisoft,47.0,7.4,T,Strategy
+1138,XB,Action,Activision,70.0,7,M,Action
+1139,PS2,Shooter,Electronic Arts,84.0,7.2,M,Action
+1140,X360,Shooter,THQ,71.0,6.4,M,Action
+1141,XB,Shooter,Ubisoft,75.0,8.1,M,Action
+1142,PC,Action,Ubisoft,74.0,5.9,M,Action
+1143,PS2,Role-Playing,THQ,76.0,8.3,T,Strategy
+1144,PS3,Racing,THQ,61.0,5,E,Sports
+1145,PS3,Action,Electronic Arts,43.0,4.8,T,Action
+1146,X360,Misc,Ubisoft,67.0,7.3,E,Puzzle
+1147,PS2,Racing,Electronic Arts,85.0,8.2,E,Sports
+1148,PS2,Action,Activision,69.0,4.1,E10+,Action
+1149,XB,Action,Electronic Arts,65.0,7.1,T,Action
+1150,PS3,Platform,THQ,74.0,7.1,E10+,Adventure
+1151,X360,Sports,Electronic Arts,67.0,7.1,E,Sports
+1152,PS2,Action,THQ,68.0,8.5,M,Action
+1153,XB,Sports,Electronic Arts,80.0,7.9,E,Sports
+1154,X360,Misc,THQ,82.0,7.9,T,Puzzle
+1155,XB,Platform,Activision,58.0,6.4,T,Adventure
+1156,XB,Sports,Electronic Arts,76.0,7.2,E,Sports
+1157,PC,Shooter,THQ,74.0,7.4,M,Action
+1158,PS2,Platform,Activision,70.0,8.9,E,Adventure
+1159,PS3,Role-Playing,Ubisoft,64.0,5.9,T,Strategy
+1160,X360,Role-Playing,Ubisoft,52.0,7,M,Strategy
+1161,PS2,Shooter,Electronic Arts,51.0,5.3,M,Action
+1162,PC,Sports,Electronic Arts,81.0,4.4,E,Sports
+1163,PS3,Action,Sony Computer Entertainment,36.0,3.7,E10+,Action
+1164,XB,Sports,Electronic Arts,82.0,9,E,Sports
+1165,X360,Racing,Activision,43.0,6.4,E,Sports
+1166,XB,Action,Electronic Arts,71.0,8.8,T,Action
+1167,PS3,Simulation,Activision,66.0,6.1,T,Strategy
+1168,PS2,Strategy,Activision,78.0,8,T,Strategy
+1169,X360,Shooter,Activision,50.0,5.6,M,Action
+1170,PS2,Simulation,Ubisoft,59.0,7.5,M,Strategy
+1171,X360,Racing,THQ,65.0,7.1,E,Sports
+1172,PS3,Role-Playing,Electronic Arts,58.0,7.2,T,Strategy
+1173,PS2,Sports,Sony Computer Entertainment,57.0,4,E,Sports
+1174,PS2,Shooter,Ubisoft,76.0,8.9,M,Action
+1175,PS3,Sports,THQ,65.0,2.4,E,Sports
+1176,X360,Action,THQ,69.0,7.3,M,Action
+1177,PS2,Sports,Sony Computer Entertainment,57.0,6,E,Sports
+1178,X360,Role-Playing,Ubisoft,69.0,6.9,T,Strategy
+1179,PS2,Shooter,Electronic Arts,62.0,8.3,M,Action
+1180,PS2,Strategy,Electronic Arts,66.0,8.4,T,Strategy
+1181,PS3,Platform,Activision,57.0,4.5,E10+,Adventure
+1182,PS2,Misc,Sony Computer Entertainment,83.0,9,E,Puzzle
+1183,XB,Sports,Electronic Arts,79.0,9,E,Sports
+1184,PC,Role-Playing,Ubisoft,85.0,8.6,M,Strategy
+1185,X360,Fighting,Electronic Arts,54.0,6.3,T,Sports
+1186,PS2,Shooter,Activision,65.0,8.6,M,Action
+1187,PS3,Shooter,THQ,72.0,7.2,M,Action
+1188,PS3,Simulation,Ubisoft,62.0,7.6,T,Strategy
+1189,XB,Action,Electronic Arts,67.0,8.8,E,Action
+1190,PS2,Action,Sony Computer Entertainment,68.0,8,M,Action
+1191,PC,Action,Ubisoft,82.0,7.4,M,Action
+1192,PS3,Sports,Ubisoft,61.0,6.5,T,Sports
+1193,PS3,Action,Activision,67.0,7.3,E10+,Action
+1194,PS2,Action,Activision,68.0,8.1,E10+,Action
+1195,XB,Sports,Electronic Arts,69.0,7.5,E,Sports
+1196,XB,Sports,Electronic Arts,81.0,6.8,E,Sports
+1197,PS3,Action,Electronic Arts,65.0,6.4,E10+,Action
+1198,X360,Action,Electronic Arts,76.0,8.4,M,Action
+1199,XB,Platform,Electronic Arts,68.0,8.5,E,Adventure
+1200,PS2,Adventure,Sony Computer Entertainment,72.0,7.8,M,Adventure
+1201,PC,Racing,Ubisoft,80.0,7,T,Sports
+1202,PS2,Misc,Sony Computer Entertainment,86.0,8.8,T,Puzzle
+1203,PC,Shooter,Activision,83.0,7.5,M,Action
+1204,PS3,Adventure,Ubisoft,39.0,5.6,M,Adventure
+1205,X360,Shooter,Electronic Arts,74.0,7.1,M,Action
+1206,X360,Shooter,Ubisoft,71.0,6.9,M,Action
+1207,XB,Sports,Activision,65.0,8.3,T,Sports
+1208,X360,Racing,THQ,57.0,8.1,E,Sports
+1209,XB,Action,Activision,63.0,7.6,T,Action
+1210,X360,Sports,Electronic Arts,71.0,5.1,E,Sports
+1211,X360,Sports,Ubisoft,38.0,7.9,E,Sports
+1212,PC,Sports,Electronic Arts,83.0,7.7,E,Sports
+1213,PS2,Misc,Sony Computer Entertainment,73.0,8,E,Puzzle
+1214,PS3,Misc,THQ,82.0,7.3,T,Puzzle
+1215,XB,Racing,THQ,68.0,9.1,T,Sports
+1216,PS3,Action,Activision,51.0,7,E10+,Action
+1217,XB,Sports,Electronic Arts,85.0,6.5,E,Sports
+1218,PS2,Sports,Sony Computer Entertainment,78.0,8.3,E,Sports
+1219,PS3,Sports,Activision,31.0,4.4,E,Sports
+1220,PS2,Sports,Sony Computer Entertainment,73.0,7.4,E,Sports
+1221,PS2,Sports,Sony Computer Entertainment,66.0,9.1,E,Sports
+1222,X360,Action,Activision,52.0,6.1,T,Action
+1223,PC,Shooter,Ubisoft,71.0,4.9,M,Action
+1224,PS3,Platform,Sony Computer Entertainment,53.0,6.1,E10+,Adventure
+1225,XB,Action,Electronic Arts,57.0,9.2,M,Action
+1226,X360,Action,Activision,71.0,5.8,E,Action
+1227,PS3,Fighting,Electronic Arts,53.0,3.8,T,Sports
+1228,PS2,Action,Electronic Arts,46.0,6.9,T,Action
+1229,X360,Action,Activision,63.0,6.6,E10+,Action
+1230,PS2,Sports,Sony Computer Entertainment,56.0,6,E,Sports
+1231,PS2,Sports,Electronic Arts,72.0,8.3,E,Sports
+1232,X360,Adventure,Ubisoft,42.0,4.8,M,Adventure
+1233,PC,Action,Ubisoft,74.0,4.8,M,Action
+1234,PS2,Sports,Sony Computer Entertainment,68.0,9,E,Sports
+1235,X360,Simulation,Activision,70.0,6.4,T,Strategy
+1236,PS3,Action,Activision,66.0,3.7,E,Action
+1237,XB,Shooter,Electronic Arts,83.0,8.9,M,Action
+1238,PS2,Action,Ubisoft,81.0,9.2,M,Action
+1239,PS2,Sports,Activision,83.0,9,E,Sports
+1240,PS3,Action,Ubisoft,51.0,5.2,M,Action
+1241,PC,Racing,Ubisoft,71.0,6.4,T,Sports
+1242,PS3,Action,Electronic Arts,61.0,5.2,E,Action
+1243,PC,Simulation,Electronic Arts,73.0,7.5,T,Strategy
+1244,PS3,Simulation,Ubisoft,62.0,7,T,Strategy
+1245,PC,Shooter,Electronic Arts,82.0,7.7,M,Action
+1246,X360,Sports,Ubisoft,61.0,5.3,T,Sports
+1247,XB,Sports,Electronic Arts,77.0,6.2,E,Sports
+1248,X360,Action,Activision,60.0,5,E10+,Action
+1249,PS2,Shooter,THQ,64.0,8.3,M,Action
+1250,X360,Racing,THQ,54.0,5.8,E,Sports
+1251,PS3,Sports,Electronic Arts,81.0,6.5,E,Sports
+1252,X360,Platform,THQ,77.0,7.5,E10+,Adventure
+1253,PS3,Sports,Sony Computer Entertainment,63.0,5.1,E,Sports
+1254,X360,Action,THQ,55.0,6.3,E10+,Action
+1255,X360,Sports,Electronic Arts,62.0,6,E,Sports
+1256,PS2,Racing,Electronic Arts,83.0,8.3,E,Sports
+1257,PC,Action,THQ,83.0,7.8,M,Action
+1258,PS3,Action,THQ,43.0,4.2,E10+,Action
+1259,XB,Shooter,THQ,71.0,8.5,M,Action
+1260,XB,Action,THQ,51.0,6.2,M,Action
+1261,PS2,Racing,Ubisoft,52.0,6.8,M,Sports
+1262,PS3,Sports,Sony Computer Entertainment,66.0,8.1,E10+,Sports
+1263,X360,Simulation,Ubisoft,64.0,7.7,T,Strategy
+1264,PS3,Simulation,Ubisoft,70.0,7.2,T,Strategy
+1265,XB,Sports,Electronic Arts,65.0,8.5,E10+,Sports
+1266,PS3,Shooter,Activision,50.0,5.4,M,Action
+1267,X360,Racing,THQ,58.0,7.8,E,Sports
+1268,PS2,Action,Electronic Arts,50.0,2.3,T,Action
+1269,XB,Sports,Electronic Arts,81.0,8.1,E,Sports
+1270,PS2,Misc,Sony Computer Entertainment,67.0,6.6,E,Puzzle
+1271,PS3,Sports,Electronic Arts,64.0,7.1,E,Sports
+1272,PS2,Adventure,Electronic Arts,72.0,7.9,T,Adventure
+1273,PS2,Sports,Sony Computer Entertainment,78.0,8.3,E,Sports
+1274,PC,Shooter,Electronic Arts,96.0,9.3,M,Action
+1275,PS2,Shooter,Electronic Arts,67.0,8,T,Action
+1276,PS2,Adventure,Sony Computer Entertainment,71.0,8.5,E,Adventure
+1277,X360,Simulation,Ubisoft,72.0,7.8,T,Strategy
+1278,X360,Action,Activision,58.0,7.6,E10+,Action
+1279,PC,Shooter,Electronic Arts,71.0,3.8,M,Action
+1280,X360,Simulation,Ubisoft,62.0,8.1,T,Strategy
+1281,X360,Action,Electronic Arts,60.0,5.8,E,Action
+1282,PS2,Sports,Electronic Arts,76.0,6.4,E,Sports
+1283,PS2,Sports,Sony Computer Entertainment,77.0,7.5,E,Sports
+1284,X360,Adventure,Ubisoft,35.0,4.7,T,Adventure
+1285,PS2,Shooter,Sony Computer Entertainment,65.0,8,T,Action
+1286,PC,Shooter,Activision,73.0,3,M,Action
+1287,X360,Racing,THQ,80.0,7.7,E,Sports
+1288,XB,Strategy,Activision,79.0,8.5,T,Strategy
+1289,XB,Action,Activision,53.0,4,M,Action
+1290,XB,Misc,Ubisoft,79.0,9,E,Puzzle
+1291,PS2,Racing,Sony Computer Entertainment,57.0,7.8,T,Sports
+1292,PS3,Sports,Sony Computer Entertainment,63.0,6,E,Sports
+1293,PS2,Role-Playing,Ubisoft,58.0,5.5,M,Strategy
+1294,X360,Sports,Activision,48.0,5.6,T,Sports
+1295,PS2,Platform,Sony Computer Entertainment,77.0,8.5,E10+,Adventure
+1296,PS2,Action,Ubisoft,48.0,3.7,T,Action
+1297,PS2,Shooter,THQ,62.0,7,T,Action
+1298,X360,Action,Electronic Arts,68.0,8,E10+,Action
+1299,XB,Action,THQ,68.0,7.5,T,Action
+1300,X360,Shooter,Activision,60.0,7.2,T,Action
+1301,PS2,Sports,Sony Computer Entertainment,74.0,9.1,E,Sports
+1302,PS2,Platform,Ubisoft,49.0,5,E,Adventure
+1303,XB,Platform,Activision,70.0,7.2,E,Adventure
+1304,X360,Action,Activision,68.0,7.5,E10+,Action
+1305,XB,Shooter,THQ,74.0,5.8,M,Action
+1306,PS3,Misc,Sony Computer Entertainment,66.0,6.8,T,Puzzle
+1307,X360,Action,THQ,33.0,4.3,E10+,Action
+1308,PS3,Adventure,Ubisoft,50.0,4,T,Adventure
+1309,XB,Racing,Electronic Arts,65.0,8.4,T,Sports
+1310,XB,Adventure,Electronic Arts,71.0,8.2,M,Adventure
+1311,XB,Sports,Electronic Arts,69.0,7.1,E,Sports
+1312,XB,Platform,THQ,88.0,9,T,Adventure
+1313,PC,Adventure,Electronic Arts,75.0,8.4,M,Adventure
+1314,XB,Adventure,Ubisoft,45.0,7.3,M,Adventure
+1315,PC,Sports,Electronic Arts,84.0,4.2,E,Sports
+1316,PS2,Racing,Electronic Arts,81.0,6.4,E,Sports
+1317,PC,Role-Playing,Electronic Arts,65.0,6,T,Strategy
+1318,X360,Sports,Ubisoft,21.0,5,T,Sports
+1319,XB,Action,THQ,79.0,9.1,T,Action
+1320,XB,Sports,Activision,59.0,7.5,T,Sports
+1321,PS2,Racing,Electronic Arts,68.0,8.9,E,Sports
+1322,X360,Sports,Electronic Arts,67.0,8.4,E,Sports
+1323,X360,Racing,Activision,40.0,6.5,M,Sports
+1324,XB,Action,THQ,75.0,8.1,M,Action
+1325,XB,Action,Ubisoft,67.0,7.7,T,Action
+1326,PS2,Action,Ubisoft,68.0,7.7,M,Action
+1327,X360,Platform,Ubisoft,59.0,7.3,E10+,Adventure
+1328,PC,Shooter,Ubisoft,51.0,3.3,M,Action
+1329,X360,Misc,THQ,28.0,5.2,T,Puzzle
+1330,XB,Sports,Activision,76.0,8.3,E,Sports
+1331,XB,Platform,Electronic Arts,69.0,8.8,E,Adventure
+1332,X360,Racing,Activision,38.0,3.8,T,Sports
+1333,PC,Action,Activision,76.0,6.4,M,Action
+1334,X360,Sports,Activision,51.0,9,T,Sports
+1335,X360,Platform,Activision,62.0,6.2,E10+,Adventure
+1336,XB,Shooter,Electronic Arts,64.0,8.2,M,Action
+1337,PC,Action,Ubisoft,83.0,5.2,M,Action
+1338,XB,Shooter,Electronic Arts,54.0,7.4,M,Action
+1339,X360,Misc,Ubisoft,47.0,5.3,E10+,Puzzle
+1340,PS2,Racing,Electronic Arts,70.0,7.7,E,Sports
+1341,PS2,Simulation,Sony Computer Entertainment,78.0,8.6,T,Strategy
+1342,PS3,Platform,Ubisoft,66.0,6,E,Adventure
+1343,PS2,Sports,THQ,71.0,9,E,Sports
+1344,PS2,Action,Sony Computer Entertainment,51.0,6.2,M,Action
+1345,PC,Strategy,Activision,92.0,9.1,T,Strategy
+1346,PC,Shooter,Activision,87.0,7.6,M,Action
+1347,X360,Racing,Activision,72.0,3.4,E,Sports
+1348,XB,Sports,Electronic Arts,60.0,8,E,Sports
+1349,PC,Simulation,Electronic Arts,77.0,5.7,T,Strategy
+1350,XB,Racing,THQ,63.0,6.2,E,Sports
+1351,X360,Sports,Ubisoft,61.0,6.1,E10+,Sports
+1352,XB,Action,Activision,53.0,8.1,T,Action
+1353,PS2,Role-Playing,Ubisoft,76.0,7.8,T,Strategy
+1354,PS2,Action,Activision,65.0,7.5,E,Action
+1355,XB,Sports,Activision,80.0,8,E,Sports
+1356,X360,Sports,Electronic Arts,49.0,3.1,E,Sports
+1357,PC,Action,Electronic Arts,37.0,4.1,T,Action
+1358,XB,Role-Playing,Ubisoft,75.0,8.8,T,Strategy
+1359,XB,Action,Ubisoft,67.0,5.2,T,Action
+1360,X360,Action,Electronic Arts,56.0,5.5,E10+,Action
+1361,XB,Racing,THQ,87.0,8.5,E,Sports
+1362,XB,Action,Activision,54.0,5,T,Action
+1363,X360,Misc,THQ,60.0,7,E10+,Puzzle
+1364,XB,Simulation,Ubisoft,61.0,4.1,M,Strategy
+1365,PS2,Action,THQ,62.0,8.7,E10+,Action
+1366,PC,Racing,Electronic Arts,87.0,7.5,E10+,Sports
+1367,XB,Racing,THQ,84.0,8.4,E,Sports
+1368,PS3,Sports,Electronic Arts,67.0,3.8,E,Sports
+1369,PS2,Role-Playing,Sony Computer Entertainment,73.0,8.3,T,Strategy
+1370,XB,Action,Activision,71.0,9.3,E10+,Action
+1371,PS2,Action,Sony Computer Entertainment,69.0,8.7,T,Action
+1372,PS2,Sports,Electronic Arts,71.0,8.6,E,Sports
+1373,XB,Shooter,Ubisoft,77.0,8.5,M,Action
+1374,PC,Shooter,THQ,75.0,6.7,M,Action
+1375,PS2,Role-Playing,Ubisoft,70.0,7.5,T,Strategy
+1376,PC,Simulation,Electronic Arts,75.0,7.7,T,Strategy
+1377,PS3,Action,THQ,70.0,7,E10+,Action
+1378,X360,Platform,Ubisoft,62.0,6.5,E,Adventure
+1379,XB,Sports,Electronic Arts,82.0,8.1,E,Sports
+1380,X360,Shooter,Ubisoft,43.0,6.7,T,Action
+1381,PS3,Racing,Activision,76.0,4.5,E,Sports
+1382,PS2,Platform,Ubisoft,73.0,7.3,E,Adventure
+1383,XB,Strategy,Electronic Arts,64.0,7.7,T,Strategy
+1384,XB,Sports,Electronic Arts,63.0,7.1,E,Sports
+1385,XB,Simulation,Ubisoft,69.0,6.8,T,Strategy
+1386,PC,Shooter,Electronic Arts,91.0,8.4,T,Action
+1387,PC,Shooter,Electronic Arts,85.0,8,M,Action
+1388,PS2,Role-Playing,Ubisoft,43.0,6.7,T,Strategy
+1389,PC,Strategy,THQ,80.0,7.8,M,Strategy
+1390,PC,Action,Ubisoft,74.0,7.5,M,Action
+1391,X360,Misc,Activision,74.0,6.7,T,Puzzle
+1392,PC,Simulation,Ubisoft,90.0,7.9,T,Strategy
+1393,XB,Racing,Ubisoft,49.0,7,E,Sports
+1394,PS2,Platform,Sony Computer Entertainment,71.0,7.7,E,Adventure
+1395,PC,Racing,Electronic Arts,65.0,4.9,T,Sports
+1396,PC,Racing,Electronic Arts,82.0,8.5,T,Sports
+1397,XB,Shooter,Ubisoft,78.0,6.3,M,Action
+1398,PC,Platform,Ubisoft,86.0,8.4,E10+,Adventure
+1399,XB,Action,THQ,70.0,8.9,T,Action
+1400,PS3,Shooter,Activision,36.0,2.4,T,Action
+1401,XB,Platform,Ubisoft,75.0,7.9,E,Adventure
+1402,PC,Racing,Electronic Arts,82.0,8.5,T,Sports
+1403,PS3,Racing,Activision,47.0,7,M,Sports
+1404,PC,Strategy,Electronic Arts,82.0,8.6,T,Strategy
+1405,XB,Racing,THQ,67.0,5,T,Sports
+1406,XB,Action,Electronic Arts,59.0,6,E,Action
+1407,XB,Platform,Activision,73.0,7.8,E,Adventure
+1408,PC,Simulation,Electronic Arts,78.0,7.3,T,Strategy
+1409,PS2,Adventure,Sony Computer Entertainment,61.0,7.7,M,Adventure
+1410,PS3,Racing,Sony Computer Entertainment,89.0,8.4,E10+,Sports
+1411,PS2,Strategy,THQ,71.0,8,M,Strategy
+1412,XB,Racing,Ubisoft,51.0,6.9,M,Sports
+1413,XB,Action,Electronic Arts,49.0,1.5,E,Action
+1414,XB,Racing,Electronic Arts,83.0,5.5,E,Sports
+1415,PC,Platform,Electronic Arts,74.0,4.4,T,Adventure
+1416,PS2,Role-Playing,Sony Computer Entertainment,59.0,4.2,T,Strategy
+1417,XB,Action,Ubisoft,71.0,7.6,M,Action
+1418,PC,Racing,Activision,81.0,7.4,E10+,Sports
+1419,PC,Shooter,Activision,86.0,8.4,T,Action
+1420,PS2,Misc,Ubisoft,64.0,8.1,E,Puzzle
+1421,PC,Action,Electronic Arts,54.0,6.8,E,Action
+1422,X360,Shooter,Activision,35.0,6.1,T,Action
+1423,PC,Racing,Electronic Arts,83.0,5.8,E,Sports
+1424,PS2,Shooter,Ubisoft,44.0,4.6,T,Action
+1425,XB,Action,Electronic Arts,45.0,4.6,T,Action
+1426,PC,Shooter,THQ,82.0,8.4,M,Action
+1427,PC,Simulation,Electronic Arts,81.0,7.8,T,Strategy
+1428,PC,Action,Electronic Arts,65.0,7.8,E,Action
+1429,XB,Sports,Electronic Arts,69.0,6.8,E,Sports
+1430,PC,Action,Electronic Arts,76.0,8,M,Action
+1431,PC,Platform,Electronic Arts,81.0,8.1,T,Adventure
+1432,PC,Role-Playing,THQ,77.0,8.1,T,Strategy
+1433,PS2,Shooter,Sony Computer Entertainment,78.0,8.3,E,Action
+1434,XB,Sports,Electronic Arts,74.0,8.1,E,Sports
+1435,PC,Simulation,Ubisoft,60.0,7.1,T,Strategy
+1436,XB,Sports,Activision,80.0,8.8,E,Sports
+1437,PC,Shooter,Electronic Arts,78.0,7.3,T,Action
+1438,X360,Sports,Electronic Arts,72.0,8.2,E,Sports
+1439,PC,Action,Ubisoft,66.0,3.8,T,Action
+1440,PS2,Racing,Sony Computer Entertainment,70.0,4.4,E,Sports
+1441,PC,Shooter,Electronic Arts,82.0,7.5,E10+,Action
+1442,XB,Sports,Electronic Arts,75.0,7.7,E,Sports
+1443,PC,Strategy,THQ,86.0,8.8,M,Strategy
+1444,PC,Action,Activision,66.0,8,E10+,Action
+1445,PS2,Sports,Electronic Arts,70.0,7.8,E,Sports
+1446,X360,Strategy,Electronic Arts,79.0,7.5,T,Strategy
+1447,PC,Racing,Electronic Arts,78.0,7.2,E10+,Sports
+1448,PC,Strategy,Activision,88.0,9.1,T,Strategy
+1449,PC,Racing,Electronic Arts,82.0,8.3,E,Sports
+1450,PC,Shooter,Ubisoft,89.0,8.1,M,Action
+1451,PC,Sports,Electronic Arts,72.0,3.8,E,Sports
+1452,PC,Simulation,Electronic Arts,92.0,7.9,T,Strategy
+1453,PC,Sports,Electronic Arts,72.0,3.9,E,Sports
+1454,PS2,Misc,THQ,82.0,8.7,E,Puzzle
+1455,X360,Sports,Activision,41.0,7.2,E,Sports
+1456,PC,Strategy,THQ,93.0,8.8,M,Strategy
+1457,PC,Simulation,Ubisoft,79.0,6.9,T,Strategy
+1458,XB,Shooter,THQ,70.0,9.3,T,Action
+1459,PC,Strategy,THQ,86.0,8.3,E10+,Strategy
+1460,PC,Shooter,Activision,74.0,7.3,M,Action
+1461,PC,Action,Ubisoft,70.0,7.3,T,Action
+1462,X360,Fighting,Ubisoft,60.0,6.1,T,Sports
+1463,PC,Simulation,Ubisoft,86.0,8.8,T,Strategy
+1464,XB,Racing,Electronic Arts,72.0,7,E,Sports
+1465,PC,Racing,Electronic Arts,70.0,5.9,E10+,Sports
+1466,PC,Simulation,Electronic Arts,92.0,8.2,T,Strategy
+1467,PC,Simulation,Electronic Arts,76.0,7.7,T,Strategy
+1468,PC,Strategy,THQ,70.0,7.2,M,Strategy
+1469,PC,Strategy,Ubisoft,77.0,7.9,T,Strategy
+1470,PS2,Action,THQ,66.0,5.8,T,Action
+1471,PC,Strategy,THQ,87.0,8.6,M,Strategy
+1472,PS3,Sports,Ubisoft,59.0,5.1,E10+,Sports
+1473,PC,Adventure,Ubisoft,47.0,5.5,M,Adventure
+1474,PC,Simulation,Activision,84.0,8.3,T,Strategy
+1475,PC,Strategy,THQ,81.0,8.9,E10+,Strategy
+1476,PS2,Sports,Electronic Arts,74.0,7.4,E,Sports
+1477,PC,Action,Electronic Arts,63.0,7.1,E10+,Action
+1478,PC,Action,Electronic Arts,67.0,7.2,E,Action
+1479,PC,Action,THQ,72.0,6.8,M,Action
+1480,PC,Simulation,Ubisoft,71.0,7.2,T,Strategy
+1481,PC,Shooter,Activision,81.0,8.6,T,Action
+1482,X360,Sports,Activision,41.0,8,E,Sports
+1483,PC,Shooter,Ubisoft,78.0,8,M,Action
+1484,PC,Shooter,THQ,82.0,7.5,M,Action
+1485,PC,Action,Ubisoft,75.0,6.6,T,Action
+1486,PC,Racing,Ubisoft,80.0,6.8,E10+,Sports
+1487,PC,Simulation,Activision,59.0,5.8,T,Strategy
+1488,PC,Action,Activision,74.0,7.6,T,Action
+1489,PS2,Sports,Ubisoft,61.0,7.9,E,Sports
+1490,PC,Simulation,Ubisoft,76.0,7.5,E,Strategy
+1491,PC,Platform,Ubisoft,74.0,8.3,E,Adventure
+1492,PC,Action,Electronic Arts,64.0,6.1,E10+,Action
+1493,PC,Action,Ubisoft,76.0,7.4,M,Action
+1494,PC,Action,Activision,70.0,6.3,T,Action
+1495,XB,Adventure,Ubisoft,71.0,8.7,T,Adventure
+1496,PC,Action,Activision,63.0,6.2,E10+,Action
+1497,PS3,Action,Sony Computer Entertainment,77.0,6.9,E10+,Action
+1498,PC,Shooter,Electronic Arts,84.0,7.5,T,Action
+1499,XB,Sports,Electronic Arts,75.0,7.7,E10+,Sports
+1500,PS2,Shooter,Electronic Arts,63.0,6.1,T,Action
+1501,PC,Simulation,Electronic Arts,70.0,6.4,E,Strategy
+1502,PC,Simulation,Electronic Arts,74.0,7.3,T,Strategy
+1503,PC,Shooter,Electronic Arts,80.0,6.8,T,Action
+1504,PC,Shooter,Electronic Arts,89.0,8.6,T,Action
+1505,PC,Action,Electronic Arts,57.0,6.7,T,Action
+1506,PS3,Strategy,Sony Computer Entertainment,76.0,6.9,E10+,Strategy
+1507,PC,Strategy,Ubisoft,66.0,7.7,E10+,Strategy
+1508,PC,Simulation,Electronic Arts,63.0,4.3,E10+,Strategy
+1509,PC,Shooter,Ubisoft,78.0,7.3,M,Action
+1510,PC,Shooter,Ubisoft,79.0,7.9,M,Action
+1511,PC,Simulation,Ubisoft,86.0,8.6,T,Strategy
+1512,PC,Action,Activision,71.0,7.8,E10+,Action
+1513,PC,Shooter,THQ,73.0,6.9,T,Action
+1514,PC,Strategy,Ubisoft,68.0,6.7,T,Strategy
+1515,PC,Shooter,Electronic Arts,78.0,7.8,E10+,Action
+1516,PC,Adventure,Ubisoft,36.0,3.9,T,Adventure
+1517,PC,Shooter,Electronic Arts,89.0,9.2,M,Action
+1518,PC,Strategy,Electronic Arts,84.0,7.5,T,Strategy
+1519,PC,Sports,Electronic Arts,77.0,6.8,E,Sports
+1520,PC,Shooter,Activision,81.0,7.6,M,Action
+1521,PC,Platform,Activision,62.0,7.1,T,Adventure
+1522,PC,Action,Activision,52.0,7.8,T,Action
+1523,PC,Simulation,Ubisoft,65.0,4.6,T,Strategy
+1524,PC,Role-Playing,Electronic Arts,70.0,6.3,M,Strategy
+1525,PS3,Action,Ubisoft,67.0,6.8,M,Action
+1526,PC,Shooter,Electronic Arts,84.0,7.9,M,Action
+1527,X360,Misc,THQ,54.0,5.7,E,Puzzle
+1528,X360,Action,Ubisoft,62.0,7.3,T,Action
+1529,XB,Adventure,THQ,77.0,8.3,T,Adventure
+1530,PS3,Action,THQ,82.0,7.9,M,Action
+1531,PC,Sports,Electronic Arts,62.0,4.1,E10+,Sports
+1532,PC,Action,Ubisoft,74.0,7.4,T,Action
+1533,PC,Shooter,Activision,63.0,7.1,T,Action
+1534,PC,Adventure,Ubisoft,79.0,7.6,E,Adventure
+1535,PS3,Action,Sony Computer Entertainment,50.0,5,E10+,Action
+1536,PS2,Sports,Sony Computer Entertainment,63.0,6.8,E,Sports
+1537,PC,Action,Ubisoft,52.0,6,T,Action
+1538,PC,Platform,THQ,58.0,6.8,E,Adventure
+1539,PC,Action,Activision,86.0,8.2,E10+,Action
+1540,PC,Simulation,Ubisoft,56.0,4,E10+,Strategy
+1541,PC,Shooter,Activision,84.0,8.3,T,Action
+1542,PC,Sports,Electronic Arts,77.0,6.1,E,Sports
+1543,PC,Shooter,Ubisoft,72.0,7.8,M,Action
+1544,PC,Misc,Ubisoft,58.0,7.6,E,Puzzle
+1545,XB,Action,THQ,69.0,3,T,Action
+1546,PS3,Sports,Electronic Arts,83.0,5.5,E,Sports
+1547,PC,Strategy,Electronic Arts,75.0,7,T,Strategy
+1548,PC,Simulation,Electronic Arts,72.0,6.9,E,Strategy
+1549,PC,Action,Activision,57.0,5.3,E10+,Action
+1550,PC,Action,Electronic Arts,77.0,8.4,E,Action
+1551,PC,Role-Playing,Activision,82.0,8,T,Strategy
+1552,PC,Sports,Electronic Arts,91.0,4.5,E,Sports
+1553,PS2,Shooter,Activision,70.0,9.2,E10+,Action
+1554,PC,Action,Ubisoft,79.0,6.8,E,Action
+1555,PC,Racing,THQ,61.0,5,T,Sports
+1556,PC,Action,Activision,58.0,8,E10+,Action
+1557,PC,Action,Activision,78.0,7.9,T,Action
